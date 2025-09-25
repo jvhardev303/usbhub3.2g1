@@ -1,0 +1,54 @@
+Added Component: Designator=(FURO_M2)
+Add component (AddParameter): Name = "Nome"; Value = "FURO_M2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "FURO_M2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Sub-Tipo"; Value = "Furo"; VariantName = "[No Variations]"
+Added Component: Designator=(FURO_M2)
+Add component (AddParameter): Name = "Nome"; Value = "FURO_M2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "FURO_M2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Sub-Tipo"; Value = "Furo"; VariantName = "[No Variations]"
+Added Component: Designator=(FURO_M2)
+Add component (AddParameter): Name = "Nome"; Value = "FURO_M2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "FURO_M2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Sub-Tipo"; Value = "Furo"; VariantName = "[No Variations]"
+Added Component: Designator=(FURO_M2)
+Add component (AddParameter): Name = "Nome"; Value = "FURO_M2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "FURO_M2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Sub-Tipo"; Value = "Furo"; VariantName = "[No Variations]"
+Add Net: Net with name "NetD?_1" already exists
+Add Net: Net with name "NetD?_1" already exists
+Add Net: Net with name "NetD?_1" already exists
+Add Net: Net with name "NetD?_1" already exists
+Add Net: Net with name "NetD?_1" already exists
+Add Net: Net with name "NetD?_1" already exists
+Add Net: Net with name "NetD?_1" already exists
+Add Net: Net with name "NetD?_2" already exists
+Add Net: Net with name "NetD?_2" already exists
+Add Net: Net with name "NetD?_2" already exists
+Add Net: Net with name "NetD?_2" already exists
+Add Net: Net with name "NetD?_2" already exists
+Add Net: Net with name "NetD?_2" already exists
+Add Net: Net with name "NetD?_2" already exists
+Add Net: Net with name "NetD?_4" already exists
+Add Net: Net with name "NetD?_4" already exists
+Add Net: Net with name "NetD?_4" already exists
+Add Net: Net with name "NetD?_5" already exists
+Add Net: Net with name "NetD?_5" already exists
+Add Net: Net with name "NetD?_5" already exists
+Added Member To Class: ClassName=Schematic Member=Component D? TPD2EUSB30DRTR
+Added Member To Class: ClassName=Schematic Member=Component D? TPD2EUSB30DRTR
+Added Member To Class: ClassName=Schematic Member=Component D? ESD204DQAR
+Added Member To Class: ClassName=Schematic Member=Component D? ESD204DQAR
+Added Member To Class: ClassName=Schematic Member=Component D? ESD204DQAR
+Added Member To Class: ClassName=Schematic Member=Component D? ESD204DQAR
+Added Member To Class: ClassName=Schematic Member=Component D? TPD2EUSB30DRTR
+Added Member To Class: ClassName=Schematic Member=Component D? TPD2EUSB30DRTR
+Added Member To Class: ClassName=Schematic Member=Component J? USB1135-15-9-L-B
+Added Member To Class: ClassName=Schematic Member=Component J? USB1135-15-9-L-B
+Added Member To Class: ClassName=Schematic Member=Component J? USB1135-15-9-L-B
+Added Member To Class: ClassName=Schematic Member=Component J? USB1135-15-9-L-B
+Added Member To Class: ClassName=Schematic Member=Component  Furo
+Added Member To Class: ClassName=Schematic Member=Component  Furo
+Added Member To Class: ClassName=Schematic Member=Component  Furo
+Added Member To Class: ClassName=Schematic Member=Component  Furo
+Added Member To Class: ClassName=Schematic Member=Component U? TUSB8042ARGCT
+Added Member To Class: ClassName=Schematic Member=Component U? AT24C04D-SSHM-B

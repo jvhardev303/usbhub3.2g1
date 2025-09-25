@@ -1,0 +1,311 @@
+Added Component: Designator=C?(0402)
+Add component (AddParameter): Name = "Manufacter"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Montagem"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Nome"; Value = "GRT155R71C104KE01J"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "GRT155R71C104KE01J"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Polarizado/Não polarizado"; Value = "Não polarizado"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Sub-Tipo"; Value = "Ceramico"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 3"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "81-GRT155R71C104KE1J"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "490-GRT155R71C104KE01JCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 3"; Value = "C3841254"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100 nF"; VariantName = "[No Variations]"
+Added Component: Designator=C?(0402)
+Add component (AddParameter): Name = "Manufacter"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Montagem"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Nome"; Value = "GCM155R72A102KA37J"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "GCM155R72A102KA37J"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Polarizado/Não polarizado"; Value = "Não polarizado"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Sub-Tipo"; Value = "Ceramico"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 3"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "81-GCM155R72A102KA7J"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "490-GRT155R71C104KE01JCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 3"; Value = "C3841254"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1 nF"; VariantName = "[No Variations]"
+Added Component: Designator=C?(0402)
+Add component (AddParameter): Name = "Manufacter"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Montagem"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Nome"; Value = "GCM155R72A102KA37J"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "GCM155R72A102KA37J"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Polarizado/Não polarizado"; Value = "Não polarizado"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Sub-Tipo"; Value = "Ceramico"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 3"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "81-GCM155R72A102KA7J"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "490-GRT155R71C104KE01JCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 3"; Value = "C3841254"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1 nF"; VariantName = "[No Variations]"
+Added Component: Designator=C?(0402)
+Add component (AddParameter): Name = "Manufacter"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Montagem"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Nome"; Value = "GRT155R71C104KE01J"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "GRT155R71C104KE01J"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Polarizado/Não polarizado"; Value = "Não polarizado"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Sub-Tipo"; Value = "Ceramico"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 3"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "81-GRT155R71C104KE1J"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "490-GRT155R71C104KE01JCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 3"; Value = "C3841254"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100 nF"; VariantName = "[No Variations]"
+Added Component: Designator=C?(0402)
+Add component (AddParameter): Name = "Manufacter"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Montagem"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Nome"; Value = "GRT155R71C104KE01J"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "GRT155R71C104KE01J"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Polarizado/Não polarizado"; Value = "Não polarizado"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Sub-Tipo"; Value = "Ceramico"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 3"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "81-GRT155R71C104KE1J"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "490-GRT155R71C104KE01JCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 3"; Value = "C3841254"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100 nF"; VariantName = "[No Variations]"
+Added Component: Designator=C?(0402)
+Add component (AddParameter): Name = "Manufacter"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Montagem"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Nome"; Value = "GRT155R71C104KE01J"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "GRT155R71C104KE01J"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Polarizado/Não polarizado"; Value = "Não polarizado"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Sub-Tipo"; Value = "Ceramico"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 3"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "81-GRT155R71C104KE1J"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "490-GRT155R71C104KE01JCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 3"; Value = "C3841254"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100 nF"; VariantName = "[No Variations]"
+Added Component: Designator=C?(0402)
+Add component (AddParameter): Name = "Manufacter"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Montagem"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Nome"; Value = "GCM155R72A102KA37J"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "GCM155R72A102KA37J"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Polarizado/Não polarizado"; Value = "Não polarizado"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Sub-Tipo"; Value = "Ceramico"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 3"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "81-GCM155R72A102KA7J"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "490-GRT155R71C104KE01JCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 3"; Value = "C3841254"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1 nF"; VariantName = "[No Variations]"
+Added Component: Designator=C?(0402)
+Add component (AddParameter): Name = "Manufacter"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Montagem"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Nome"; Value = "GRT155R71C104KE01J"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "GRT155R71C104KE01J"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Polarizado/Não polarizado"; Value = "Não polarizado"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Sub-Tipo"; Value = "Ceramico"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 3"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "81-GRT155R71C104KE1J"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "490-GRT155R71C104KE01JCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 3"; Value = "C3841254"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100 nF"; VariantName = "[No Variations]"
+Added Component: Designator=C?(0402)
+Add component (AddParameter): Name = "Manufacter"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Montagem"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Nome"; Value = "GRT155R71C104KE01J"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "GRT155R71C104KE01J"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Polarizado/Não polarizado"; Value = "Não polarizado"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Sub-Tipo"; Value = "Ceramico"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 3"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "81-GRT155R71C104KE1J"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "490-GRT155R71C104KE01JCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 3"; Value = "C3841254"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100 nF"; VariantName = "[No Variations]"
+Added Component: Designator=C?(0402)
+Add component (AddParameter): Name = "Manufacter"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Montagem"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Nome"; Value = "GRT155R71C104KE01J"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "GRT155R71C104KE01J"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Polarizado/Não polarizado"; Value = "Não polarizado"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Sub-Tipo"; Value = "Ceramico"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 3"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "81-GRT155R71C104KE1J"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "490-GRT155R71C104KE01JCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 3"; Value = "C3841254"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100 nF"; VariantName = "[No Variations]"
+Added Component: Designator=FB?(FB0603)
+Add component (AddParameter): Name = "Corrente Max"; Value = "2.2 A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "imepdancia"; Value = "220 Ohms"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacter"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Nome"; Value = "BLM18KG221SH1D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "BLM18KG221SH1D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 3"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "81-BLM18KG221SH1D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "490-13256-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 3"; Value = "C527991"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tipo"; Value = "Ferrite Bead"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerancia"; Value = "25%"; VariantName = "[No Variations]"
+Added Component: Designator=FB?(FB0603)
+Add component (AddParameter): Name = "Corrente Max"; Value = "2.2 A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "imepdancia"; Value = "220 Ohms"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacter"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Nome"; Value = "BLM18KG221SH1D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "BLM18KG221SH1D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 3"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "81-BLM18KG221SH1D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "490-13256-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 3"; Value = "C527991"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tipo"; Value = "Ferrite Bead"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerancia"; Value = "25%"; VariantName = "[No Variations]"
+Added Component: Designator=FB?(FB0603)
+Add component (AddParameter): Name = "Corrente Max"; Value = "2.2 A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "imepdancia"; Value = "220 Ohms"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacter"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Nome"; Value = "BLM18KG221SH1D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "BLM18KG221SH1D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 3"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "81-BLM18KG221SH1D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "490-13256-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 3"; Value = "C527991"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tipo"; Value = "Ferrite Bead"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerancia"; Value = "25%"; VariantName = "[No Variations]"
+Added Component: Designator=FB?(FB0603)
+Add component (AddParameter): Name = "Corrente Max"; Value = "2.2 A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "imepdancia"; Value = "220 Ohms"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacter"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Nome"; Value = "BLM18KG221SH1D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "BLM18KG221SH1D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 3"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "81-BLM18KG221SH1D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "490-13256-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 3"; Value = "C527991"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tipo"; Value = "Ferrite Bead"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerancia"; Value = "25%"; VariantName = "[No Variations]"
+Added Component: Designator=R?(R0402)
+Add component (AddParameter): Name = "Manufacter"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Montagem"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Nome"; Value = "CRCW04021M00FKEE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CRCW04021M00FKEE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Potencia"; Value = "62.5 mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Simbolo"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 3"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "71-CRCW04021M00FKEE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "541-CRCW04021M00FKEECT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 3"; Value = "C4207375"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerancia"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1 MOhm"; VariantName = "[No Variations]"
+Added Component: Designator=R?(R0402)
+Add component (AddParameter): Name = "Manufacter"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Montagem"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Nome"; Value = "CRCW04021M00FKEE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CRCW04021M00FKEE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Potencia"; Value = "62.5 mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Simbolo"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 3"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "71-CRCW04021M00FKEE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "541-CRCW04021M00FKEECT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 3"; Value = "C4207375"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerancia"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1 MOhm"; VariantName = "[No Variations]"
+Added Component: Designator=R?(R0402)
+Add component (AddParameter): Name = "Manufacter"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Montagem"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Nome"; Value = "CRCW04021M00FKEE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CRCW04021M00FKEE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Potencia"; Value = "62.5 mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Simbolo"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 3"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "71-CRCW04021M00FKEE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "541-CRCW04021M00FKEECT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 3"; Value = "C4207375"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerancia"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1 MOhm"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=SGND Pin=C?-1
+Added Pin To Net: NetName=SGND Pin=C?-1
+Added Pin To Net: NetName=SGND Pin=C?-1
+Added Pin To Net: NetName=SGND Pin=C?-1
+Added Pin To Net: NetName=SGND Pin=C?-1
+Added Pin To Net: NetName=SGND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=J1-4
+Added Pin To Net: NetName=GND Pin=J1-7
+Added Pin To Net: NetName=GND Pin=J5-4
+Added Pin To Net: NetName=GND Pin=J5-7
+Added Pin To Net: NetName=GND Pin=J6-4
+Added Pin To Net: NetName=GND Pin=J6-7
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=SGND Pin=R?-2
+Added Pin To Net: NetName=SGND Pin=R?-2
+Added Pin To Net: NetName=SGND Pin=R?-2
+Added Pin To Net: NetName=NetC?_1 Pin=C?-1
+Added Pin To Net: NetName=NetC?_1 Pin=FB?-2
+Added Pin To Net: NetName=NetC?_1 Pin=J4-1
+Added Net: Name=NetC?_1
+Add Net: Net with name "NetC?_1" already exists
+Add Net: Net with name "NetC?_1" already exists
+Add Net: Net with name "NetC?_1" already exists
+Added Member To Class: ClassName=Schematic Member=Component C? CAPNPOL
+Added Member To Class: ClassName=Schematic Member=Component C? CAPNPOL
+Added Member To Class: ClassName=Schematic Member=Component C? CAPNPOL
+Added Member To Class: ClassName=Schematic Member=Component C? CAPNPOL
+Added Member To Class: ClassName=Schematic Member=Component C? CAPNPOL
+Added Member To Class: ClassName=Schematic Member=Component C? CAPNPOL
+Added Member To Class: ClassName=Schematic Member=Component C? CAPNPOL
+Added Member To Class: ClassName=Schematic Member=Component C? CAPNPOL
+Added Member To Class: ClassName=Schematic Member=Component C? CAPNPOL
+Added Member To Class: ClassName=Schematic Member=Component C? CAPNPOL
+Added Member To Class: ClassName=Schematic Member=Component D7 TPD2EUSB30DRTR
+Added Member To Class: ClassName=Schematic Member=Component FB? FerriteBead
+Added Member To Class: ClassName=Schematic Member=Component FB? FerriteBead
+Added Member To Class: ClassName=Schematic Member=Component FB? FerriteBead
+Added Member To Class: ClassName=Schematic Member=Component FB? FerriteBead
+Added Member To Class: ClassName=Schematic Member=Component J3 2338792-1
+Added Member To Class: ClassName=Schematic Member=Component R? Resistor
+Added Member To Class: ClassName=Schematic Member=Component R? Resistor
+Added Member To Class: ClassName=Schematic Member=Component R? Resistor
+Added Member To Class: ClassName=Schematic Member=Component  Furo
+Added Member To Class: ClassName=Schematic Member=Component  Furo
+Added Member To Class: ClassName=Schematic Member=Component  Furo
