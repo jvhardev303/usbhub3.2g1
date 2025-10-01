@@ -1,0 +1,32 @@
+Removed Pin From Net: NetName=UPS_VBUS Pin=J1-1
+Removed Pin From Net: NetName=UPS_D_N Pin=J1-2
+Removed Pin From Net: NetName=UPS_D_P Pin=J1-3
+Removed Pin From Net: NetName=GND Pin=J1-4
+Removed Pin From Net: NetName=UPS_TXOUT_N Pin=J1-5
+Removed Pin From Net: NetName=UPS_TXOUT_P Pin=J1-6
+Removed Pin From Net: NetName=GND Pin=J1-7
+Removed Pin From Net: NetName=UPS_RX_N Pin=J1-8
+Removed Pin From Net: NetName=UPS_RX_P Pin=J1-9
+Removed Pin From Net: NetName=SGND Pin=J1-SH1
+Removed Pin From Net: NetName=SGND Pin=J1-SH2
+Change Component Footprint: Designator=J1 Old Footprint=USB3-B-S-F-TH New Footprint=2338792-1
+Change Component Comment : Designator=J1 Old Comment=USB3-B-S-F-TH New Comment=2338792-1
+Change component parameters: Designator = "J1" ("J1"); Footprint = "USB3-B-S-F-TH"; UniqueID = "\GAHMWPID" ("\GAHMWPID")
+Change component parameters (AddParameter): Name = "Colunas"; Value = "0"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacter"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Montagem"; Value = "PTH/SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Nome"; Value = "2338792-1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "2338792-1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pinos por coluna"; Value = "0"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Sub-Tipo"; Value = "USB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 2"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 3"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "571-2338792-1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 2"; Value = "17-2338792-1CT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 3"; Value = "C6077276"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Total de Pinos"; Value = "24"; VariantName = "[No Variations]"
+Add Differential Pair: Number of nets in differential pair DN2_TXOUT is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair DN3_TXOUT is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair NetC73_2 is 1 instead of 2
+Added Member To Class: ClassName=Schematic Member=Component C3 CAPNPOL
