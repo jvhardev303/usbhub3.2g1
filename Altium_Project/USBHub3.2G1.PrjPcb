@@ -100,6 +100,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document4]
+DocumentPath=USBHub3.2G1.sik
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
@@ -607,7 +624,7 @@ OutputDefault1=0
 Type1=1
 Type2=1
 Type3=1
-Type4=1
+Type4=0
 Type5=1
 Type6=1
 Type7=1
@@ -622,7 +639,7 @@ Type15=1
 Type16=1
 Type17=1
 Type18=1
-Type19=1
+Type19=0
 Type20=1
 Type21=1
 Type22=1
@@ -716,10 +733,10 @@ Type109=1
 Type110=1
 Type111=1
 Type112=1
-Type113=1
+Type113=0
 Type114=1
 Type115=1
-Type116=1
+Type116=0
 Type117=1
 Type118=1
 Type119=1
@@ -1071,184 +1088,244 @@ ComponentUpdate0=1
 ComponentIsDeviceSheet0=0
 ComponentLibIdentifierKind1=Library Name And Type
 ComponentLibraryIdentifier1=MemLib.DbLib/Capacitores
-ComponentDesignItemID1=GRM155C81A105MA12D
+ComponentDesignItemID1=GRM1555C1H180FA01D
 ComponentSymbolReference1=CAPNPOL
 ComponentUpdate1=1
 ComponentIsDeviceSheet1=0
 ComponentLibIdentifierKind2=Library Name And Type
 ComponentLibraryIdentifier2=MemLib.DbLib/Capacitores
-ComponentDesignItemID2=GRM155R61A106ME11D
+ComponentDesignItemID2=GRM155C81A105MA12D
 ComponentSymbolReference2=CAPNPOL
 ComponentUpdate2=1
 ComponentIsDeviceSheet2=0
 ComponentLibIdentifierKind3=Library Name And Type
 ComponentLibraryIdentifier3=MemLib.DbLib/Capacitores
-ComponentDesignItemID3=GRT033R61C104KE01D
+ComponentDesignItemID3=GRM155R61A106ME11D
 ComponentSymbolReference3=CAPNPOL
 ComponentUpdate3=1
 ComponentIsDeviceSheet3=0
 ComponentLibIdentifierKind4=Library Name And Type
 ComponentLibraryIdentifier4=MemLib.DbLib/Capacitores
-ComponentDesignItemID4=GRT155R71C104KE01J
+ComponentDesignItemID4=GRT033R61C104KE01D
 ComponentSymbolReference4=CAPNPOL
 ComponentUpdate4=1
 ComponentIsDeviceSheet4=0
 ComponentLibIdentifierKind5=Library Name And Type
 ComponentLibraryIdentifier5=MemLib.DbLib/Capacitores
-ComponentDesignItemID5=GRT155R71E103KE01D
+ComponentDesignItemID5=GRT155R71C104KE01J
 ComponentSymbolReference5=CAPNPOL
 ComponentUpdate5=1
 ComponentIsDeviceSheet5=0
 ComponentLibIdentifierKind6=Library Name And Type
 ComponentLibraryIdentifier6=MemLib.DbLib/Capacitores
-ComponentDesignItemID6=TCJB157M006R0070
-ComponentSymbolReference6=CAPPOL
+ComponentDesignItemID6=GRT155R71E103KE01D
+ComponentSymbolReference6=CAPNPOL
 ComponentUpdate6=1
 ComponentIsDeviceSheet6=0
 ComponentLibIdentifierKind7=Library Name And Type
-ComponentLibraryIdentifier7=MemLib.DbLib/Circuitos Integrados
-ComponentDesignItemID7=TPS2121RUXT
-ComponentSymbolReference7=TPS2121RUXT
+ComponentLibraryIdentifier7=MemLib.DbLib/Capacitores
+ComponentDesignItemID7=TCJB157M006R0070
+ComponentSymbolReference7=CAPPOL
 ComponentUpdate7=1
 ComponentIsDeviceSheet7=0
 ComponentLibIdentifierKind8=Library Name And Type
 ComponentLibraryIdentifier8=MemLib.DbLib/Circuitos Integrados
-ComponentDesignItemID8=TPS2553DRVR
-ComponentSymbolReference8=TPS2553DRVR
+ComponentDesignItemID8=HD3SS3220IRNHR
+ComponentSymbolReference8=HD3SS3220IRNHR
 ComponentUpdate8=1
 ComponentIsDeviceSheet8=0
 ComponentLibIdentifierKind9=Library Name And Type
 ComponentLibraryIdentifier9=MemLib.DbLib/Circuitos Integrados
-ComponentDesignItemID9=TPS74801RGWRM3
-ComponentSymbolReference9=TPS74801RGWRM3
+ComponentDesignItemID9=SN74LVC1G14DBVR
+ComponentSymbolReference9=SN74LVC1G14DBVR
 ComponentUpdate9=1
 ComponentIsDeviceSheet9=0
 ComponentLibIdentifierKind10=Library Name And Type
 ComponentLibraryIdentifier10=MemLib.DbLib/Circuitos Integrados
-ComponentDesignItemID10=TPS7A4533KTTR
-ComponentSymbolReference10=TPS7A4533KTTR
+ComponentDesignItemID10=TPS2121RUXT
+ComponentSymbolReference10=TPS2121RUXT
 ComponentUpdate10=1
 ComponentIsDeviceSheet10=0
 ComponentLibIdentifierKind11=Library Name And Type
 ComponentLibraryIdentifier11=MemLib.DbLib/Circuitos Integrados
-ComponentDesignItemID11=TUSB8042ARGCT
-ComponentSymbolReference11=TUSB8042ARGCT
+ComponentDesignItemID11=TPS2553DRVR
+ComponentSymbolReference11=TPS2553DRVR
 ComponentUpdate11=1
 ComponentIsDeviceSheet11=0
 ComponentLibIdentifierKind12=Library Name And Type
-ComponentLibraryIdentifier12=MemLib.DbLib/Conectores
-ComponentDesignItemID12=2338792-1
-ComponentSymbolReference12=2338792-1
+ComponentLibraryIdentifier12=MemLib.DbLib/Circuitos Integrados
+ComponentDesignItemID12=TPS74801RGWRM3
+ComponentSymbolReference12=TPS74801RGWRM3
 ComponentUpdate12=1
 ComponentIsDeviceSheet12=0
 ComponentLibIdentifierKind13=Library Name And Type
-ComponentLibraryIdentifier13=MemLib.DbLib/Conectores
-ComponentDesignItemID13=DC-005
-ComponentSymbolReference13=DC-005
+ComponentLibraryIdentifier13=MemLib.DbLib/Circuitos Integrados
+ComponentDesignItemID13=TPS7A4533KTTR
+ComponentSymbolReference13=TPS7A4533KTTR
 ComponentUpdate13=1
 ComponentIsDeviceSheet13=0
 ComponentLibIdentifierKind14=Library Name And Type
-ComponentLibraryIdentifier14=MemLib.DbLib/Conectores
-ComponentDesignItemID14=USB1135-15-9-L-B
-ComponentSymbolReference14=USB1135-15-9-L-B
+ComponentLibraryIdentifier14=MemLib.DbLib/Circuitos Integrados
+ComponentDesignItemID14=TUSB8042ARGCT
+ComponentSymbolReference14=TUSB8042ARGCT
 ComponentUpdate14=1
 ComponentIsDeviceSheet14=0
 ComponentLibIdentifierKind15=Library Name And Type
-ComponentLibraryIdentifier15=MemLib.DbLib/Diodos TVS
-ComponentDesignItemID15=ESD204DQAR
-ComponentSymbolReference15=ESD204DQAR
+ComponentLibraryIdentifier15=MemLib.DbLib/Conectores
+ComponentDesignItemID15=12402012E212A
+ComponentSymbolReference15=12402012E212A
 ComponentUpdate15=1
 ComponentIsDeviceSheet15=0
 ComponentLibIdentifierKind16=Library Name And Type
-ComponentLibraryIdentifier16=MemLib.DbLib/Diodos TVS
-ComponentDesignItemID16=TPD2EUSB30DRTR
-ComponentSymbolReference16=TPD2EUSB30DRTR
+ComponentLibraryIdentifier16=MemLib.DbLib/Conectores
+ComponentDesignItemID16=2338792-1
+ComponentSymbolReference16=2338792-1
 ComponentUpdate16=1
 ComponentIsDeviceSheet16=0
 ComponentLibIdentifierKind17=Library Name And Type
-ComponentLibraryIdentifier17=MemLib.DbLib/Ferrite Bead
-ComponentDesignItemID17=BLM18KG221SH1D
-ComponentSymbolReference17=FerriteBead
+ComponentLibraryIdentifier17=MemLib.DbLib/Conectores
+ComponentDesignItemID17=USB1135-15-9-L-B
+ComponentSymbolReference17=USB1135-15-9-L-B
 ComponentUpdate17=1
 ComponentIsDeviceSheet17=0
 ComponentLibIdentifierKind18=Library Name And Type
-ComponentLibraryIdentifier18=MemLib.DbLib/Furos
-ComponentDesignItemID18=FURO_M2
-ComponentSymbolReference18=Furo
+ComponentLibraryIdentifier18=MemLib.DbLib/Cristais Osciladores
+ComponentDesignItemID18=ECS-240-20-30B-TR
+ComponentSymbolReference18=ECS-240-20-30B-TR
 ComponentUpdate18=1
 ComponentIsDeviceSheet18=0
 ComponentLibIdentifierKind19=Library Name And Type
-ComponentLibraryIdentifier19=MemLib.DbLib/MOSFETs
-ComponentDesignItemID19=IRLML2244TRPBF
-ComponentSymbolReference19=PowerMOSFET-P
+ComponentLibraryIdentifier19=MemLib.DbLib/Diodos TVS
+ComponentDesignItemID19=ESD204DQAR
+ComponentSymbolReference19=ESD204DQAR
 ComponentUpdate19=1
 ComponentIsDeviceSheet19=0
 ComponentLibIdentifierKind20=Library Name And Type
-ComponentLibraryIdentifier20=MemLib.DbLib/Resistores
-ComponentDesignItemID20=AC0402FR-071K87L
-ComponentSymbolReference20=Resistor
+ComponentLibraryIdentifier20=MemLib.DbLib/Diodos TVS
+ComponentDesignItemID20=TPD2EUSB30DRTR
+ComponentSymbolReference20=TPD2EUSB30DRTR
 ComponentUpdate20=1
 ComponentIsDeviceSheet20=0
 ComponentLibIdentifierKind21=Library Name And Type
-ComponentLibraryIdentifier21=MemLib.DbLib/Resistores
-ComponentDesignItemID21=AC0402FR-1315KL
-ComponentSymbolReference21=Resistor
+ComponentLibraryIdentifier21=MemLib.DbLib/Ferrite Bead
+ComponentDesignItemID21=BLM18KG221SH1D
+ComponentSymbolReference21=FerriteBead
 ComponentUpdate21=1
 ComponentIsDeviceSheet21=0
 ComponentLibIdentifierKind22=Library Name And Type
-ComponentLibraryIdentifier22=MemLib.DbLib/Resistores
-ComponentDesignItemID22=AC0402JR-7W1KL
-ComponentSymbolReference22=Resistor
+ComponentLibraryIdentifier22=MemLib.DbLib/Furos
+ComponentDesignItemID22=FURO_M2
+ComponentSymbolReference22=Furo
 ComponentUpdate22=1
 ComponentIsDeviceSheet22=0
 ComponentLibIdentifierKind23=Library Name And Type
-ComponentLibraryIdentifier23=MemLib.DbLib/Resistores
-ComponentDesignItemID23=CRCW04021M00FKEE
-ComponentSymbolReference23=Resistor
+ComponentLibraryIdentifier23=MemLib.DbLib/MOSFETs
+ComponentDesignItemID23=IRLML2244TRPBF
+ComponentSymbolReference23=PowerMOSFET-P
 ComponentUpdate23=1
 ComponentIsDeviceSheet23=0
 ComponentLibIdentifierKind24=Library Name And Type
 ComponentLibraryIdentifier24=MemLib.DbLib/Resistores
-ComponentDesignItemID24=ERA-2AEB2552X
+ComponentDesignItemID24=AC0402FR-071K87L
 ComponentSymbolReference24=Resistor
 ComponentUpdate24=1
 ComponentIsDeviceSheet24=0
 ComponentLibIdentifierKind25=Library Name And Type
 ComponentLibraryIdentifier25=MemLib.DbLib/Resistores
-ComponentDesignItemID25=RC0402FR-0735KL
+ComponentDesignItemID25=AC0402FR-0790K9L
 ComponentSymbolReference25=Resistor
 ComponentUpdate25=1
 ComponentIsDeviceSheet25=0
 ComponentLibIdentifierKind26=Library Name And Type
 ComponentLibraryIdentifier26=MemLib.DbLib/Resistores
-ComponentDesignItemID26=RC0402FR-079K53L
+ComponentDesignItemID26=AC0402FR-1315KL
 ComponentSymbolReference26=Resistor
 ComponentUpdate26=1
 ComponentIsDeviceSheet26=0
 ComponentLibIdentifierKind27=Library Name And Type
 ComponentLibraryIdentifier27=MemLib.DbLib/Resistores
-ComponentDesignItemID27=RT0402BRD0744K8L
+ComponentDesignItemID27=AC0402JR-7W1KL
 ComponentSymbolReference27=Resistor
 ComponentUpdate27=1
 ComponentIsDeviceSheet27=0
 ComponentLibIdentifierKind28=Library Name And Type
 ComponentLibraryIdentifier28=MemLib.DbLib/Resistores
-ComponentDesignItemID28=RT0402BRD074K99L
+ComponentDesignItemID28=AF0402FR-07200KL
 ComponentSymbolReference28=Resistor
 ComponentUpdate28=1
 ComponentIsDeviceSheet28=0
 ComponentLibIdentifierKind29=Library Name And Type
 ComponentLibraryIdentifier29=MemLib.DbLib/Resistores
-ComponentDesignItemID29=RT0402FRE0718KL
+ComponentDesignItemID29=CRCW04021M00FKEE
 ComponentSymbolReference29=Resistor
 ComponentUpdate29=1
 ComponentIsDeviceSheet29=0
 ComponentLibIdentifierKind30=Library Name And Type
 ComponentLibraryIdentifier30=MemLib.DbLib/Resistores
-ComponentDesignItemID30=RT0402FRE1310KL
+ComponentDesignItemID30=ERA-2AEB2552X
 ComponentSymbolReference30=Resistor
 ComponentUpdate30=1
 ComponentIsDeviceSheet30=0
+ComponentLibIdentifierKind31=Library Name And Type
+ComponentLibraryIdentifier31=MemLib.DbLib/Resistores
+ComponentDesignItemID31=RC0402FR-0735KL
+ComponentSymbolReference31=Resistor
+ComponentUpdate31=1
+ComponentIsDeviceSheet31=0
+ComponentLibIdentifierKind32=Library Name And Type
+ComponentLibraryIdentifier32=MemLib.DbLib/Resistores
+ComponentDesignItemID32=RC0402FR-07887KL
+ComponentSymbolReference32=Resistor
+ComponentUpdate32=1
+ComponentIsDeviceSheet32=0
+ComponentLibIdentifierKind33=Library Name And Type
+ComponentLibraryIdentifier33=MemLib.DbLib/Resistores
+ComponentDesignItemID33=RC0402FR-079K53L
+ComponentSymbolReference33=Resistor
+ComponentUpdate33=1
+ComponentIsDeviceSheet33=0
+ComponentLibIdentifierKind34=Library Name And Type
+ComponentLibraryIdentifier34=MemLib.DbLib/Resistores
+ComponentDesignItemID34=RC0402JR-071ML
+ComponentSymbolReference34=Resistor
+ComponentUpdate34=1
+ComponentIsDeviceSheet34=0
+ComponentLibIdentifierKind35=Library Name And Type
+ComponentLibraryIdentifier35=MemLib.DbLib/Resistores
+ComponentDesignItemID35=RC0402JR-7W4K7L
+ComponentSymbolReference35=Resistor
+ComponentUpdate35=1
+ComponentIsDeviceSheet35=0
+ComponentLibIdentifierKind36=Library Name And Type
+ComponentLibraryIdentifier36=MemLib.DbLib/Resistores
+ComponentDesignItemID36=RT0402BRD0744K8L
+ComponentSymbolReference36=Resistor
+ComponentUpdate36=1
+ComponentIsDeviceSheet36=0
+ComponentLibIdentifierKind37=Library Name And Type
+ComponentLibraryIdentifier37=MemLib.DbLib/Resistores
+ComponentDesignItemID37=RT0402BRD074K99L
+ComponentSymbolReference37=Resistor
+ComponentUpdate37=1
+ComponentIsDeviceSheet37=0
+ComponentLibIdentifierKind38=Library Name And Type
+ComponentLibraryIdentifier38=MemLib.DbLib/Resistores
+ComponentDesignItemID38=RT0402DRE0719K1L
+ComponentSymbolReference38=Resistor
+ComponentUpdate38=1
+ComponentIsDeviceSheet38=0
+ComponentLibIdentifierKind39=Library Name And Type
+ComponentLibraryIdentifier39=MemLib.DbLib/Resistores
+ComponentDesignItemID39=RT0402FRE0718KL
+ComponentSymbolReference39=Resistor
+ComponentUpdate39=1
+ComponentIsDeviceSheet39=0
+ComponentLibIdentifierKind40=Library Name And Type
+ComponentLibraryIdentifier40=MemLib.DbLib/Resistores
+ComponentDesignItemID40=RT0402FRE1310KL
+ComponentSymbolReference40=Resistor
+ComponentUpdate40=1
+ComponentIsDeviceSheet40=0
 FullReplace=1
 UpdateDesignatorLock=1
 UpdatePartIDLock=1
@@ -1262,70 +1339,84 @@ RemoveParameters=0
 AddModels=1
 RemoveModels=1
 UpdateCurrentModels=1
-ParameterName0=Bidirecional/Unidirecional
+ParameterName0=Availability
 ParameterUpdate0=1
-ParameterName1=Breakdown Voltage
+ParameterName1=Bidirecional/Unidirecional
 ParameterUpdate1=1
-ParameterName2=Canal
+ParameterName2=Breakdown Voltage
 ParameterUpdate2=1
-ParameterName3=Colunas
+ParameterName3=Canal
 ParameterUpdate3=1
-ParameterName4=Comment
+ParameterName4=Cap de Carga
 ParameterUpdate4=1
-ParameterName5=Component Kind
+ParameterName5=Check_prices
 ParameterUpdate5=1
-ParameterName6=Corrente Max
+ParameterName6=Colunas
 ParameterUpdate6=1
-ParameterName7=Description
+ParameterName7=Comment
 ParameterUpdate7=1
-ParameterName8=imepdancia
+ParameterName8=Component Kind
 ParameterUpdate8=1
-ParameterName9=Library Reference
+ParameterName9=Corrente Max
 ParameterUpdate9=1
-ParameterName10=Manufacter
+ParameterName10=Description
 ParameterUpdate10=1
-ParameterName11=Montagem
+ParameterName11=imepdancia
 ParameterUpdate11=1
-ParameterName12=Nome
+ParameterName12=Library Reference
 ParameterUpdate12=1
-ParameterName13=Package
+ParameterName13=Manufacter
 ParameterUpdate13=1
-ParameterName14=Part Number
+ParameterName14=MF
 ParameterUpdate14=1
-ParameterName15=Peak Pulse Current
+ParameterName15=Montagem
 ParameterUpdate15=1
-ParameterName16=Peak Pulse Power Dissipation
+ParameterName16=MP
 ParameterUpdate16=1
-ParameterName17=Pinos por coluna
+ParameterName17=Nome
 ParameterUpdate17=1
-ParameterName18=Polarizado/Não polarizado
+ParameterName18=Package
 ParameterUpdate18=1
-ParameterName19=Potencia
+ParameterName19=Part Number
 ParameterUpdate19=1
-ParameterName20=Simbolo
+ParameterName20=Peak Pulse Current
 ParameterUpdate20=1
-ParameterName21=Sub-Tipo
+ParameterName21=Peak Pulse Power Dissipation
 ParameterUpdate21=1
-ParameterName22=Supplier 1
+ParameterName22=Pinos por coluna
 ParameterUpdate22=1
-ParameterName23=Supplier 2
+ParameterName23=Polarizado/Não polarizado
 ParameterUpdate23=1
-ParameterName24=Supplier 3
+ParameterName24=Potencia
 ParameterUpdate24=1
-ParameterName25=Supplier Part Number 1
+ParameterName25=Price
 ParameterUpdate25=1
-ParameterName26=Supplier Part Number 2
+ParameterName26=Simbolo
 ParameterUpdate26=1
-ParameterName27=Supplier Part Number 3
+ParameterName27=SnapEDA_Link
 ParameterUpdate27=1
-ParameterName28=Tipo
+ParameterName28=Sub-Tipo
 ParameterUpdate28=1
-ParameterName29=Tolerancia
+ParameterName29=Supplier 1
 ParameterUpdate29=1
-ParameterName30=Total de Pinos
+ParameterName30=Supplier 2
 ParameterUpdate30=1
-ParameterName31=Value
+ParameterName31=Supplier 3
 ParameterUpdate31=1
+ParameterName32=Supplier Part Number 1
+ParameterUpdate32=1
+ParameterName33=Supplier Part Number 2
+ParameterUpdate33=1
+ParameterName34=Supplier Part Number 3
+ParameterUpdate34=1
+ParameterName35=Tipo
+ParameterUpdate35=1
+ParameterName36=Tolerancia
+ParameterUpdate36=1
+ParameterName37=Total de Pinos
+ParameterUpdate37=1
+ParameterName38=Value
+ParameterUpdate38=1
 ModelTypeGroup0=PCBLIB
 ModelTypeUpdate0=1
 ModelType0=PCBLIB
@@ -1335,10 +1426,10 @@ ModelType1=PCBLIB
 ModelName1=0402
 ModelUpdate1=1
 ModelType2=PCBLIB
-ModelName2=2338792-1
+ModelName2=12402012E212A
 ModelUpdate2=1
 ModelType3=PCBLIB
-ModelName3=DC-005
+ModelName3=2338792-1
 ModelUpdate3=1
 ModelType4=PCBLIB
 ModelName4=DQA0010A
@@ -1350,35 +1441,50 @@ ModelType6=PCBLIB
 ModelName6=DRV0006A
 ModelUpdate6=1
 ModelType7=PCBLIB
-ModelName7=FB0603
+ModelName7=ECS-240-20-30B-TR
 ModelUpdate7=1
 ModelType8=PCBLIB
-ModelName8=FURO_M2
+ModelName8=FB0603
 ModelUpdate8=1
 ModelType9=PCBLIB
-ModelName9=R0402
+ModelName9=FURO_M2
 ModelUpdate9=1
 ModelType10=PCBLIB
-ModelName10=RGC0064G
+ModelName10=OSC_ECS-100-20-30B-TR
 ModelUpdate10=1
 ModelType11=PCBLIB
-ModelName11=RGW0020A
+ModelName11=R0402
 ModelUpdate11=1
 ModelType12=PCBLIB
-ModelName12=R-PSFM-G5
+ModelName12=RGC0064G
 ModelUpdate12=1
 ModelType13=PCBLIB
-ModelName13=RUX0012A
+ModelName13=RGW0020A
 ModelUpdate13=1
 ModelType14=PCBLIB
-ModelName14=SOT-23
+ModelName14=RNH0030A
 ModelUpdate14=1
 ModelType15=PCBLIB
-ModelName15=TCJB157M006R0070
+ModelName15=R-PSFM-G5
 ModelUpdate15=1
 ModelType16=PCBLIB
-ModelName16=USB1135-15-9-L-B
+ModelName16=RUX0012A
 ModelUpdate16=1
+ModelType17=PCBLIB
+ModelName17=SOT-23
+ModelUpdate17=1
+ModelType18=PCBLIB
+ModelName18=SOT-23-5
+ModelUpdate18=1
+ModelType19=PCBLIB
+ModelName19=SOT95P280X145-5N
+ModelUpdate19=1
+ModelType20=PCBLIB
+ModelName20=TCJB157M006R0070
+ModelUpdate20=1
+ModelType21=PCBLIB
+ModelName21=USB1135-15-9-L-B
+ModelUpdate21=1
 
 [DatabaseUpdateOptions]
 SelectedOnly=0
@@ -1392,63 +1498,85 @@ Net2=NetName=DN1_D_P|NetColor=$00FFFF6E
 Net3=NetName=DN1_RX_N|NetColor=$0089007D
 Net4=NetName=DN1_RX_P|NetColor=$0089007D
 Net5=NetName=DN1_TX_N|NetColor=$0089007D
-Net6=NetName=DN1_TX_P|NetColor=$0089007D
-Net7=NetName=DN1_TXOUT_N|NetColor=$0089007D
-Net8=NetName=DN1_TXOUT_P|NetColor=$0089007D
-Net9=NetName=DN2_D_N|NetColor=$00FFFF6E
-Net10=NetName=DN2_D_P|NetColor=$00FFFF6E
-Net11=NetName=DN2_RX_N|NetColor=$0089007D
-Net12=NetName=DN2_RX_P|NetColor=$0089007D
-Net13=NetName=DN2_TX_N|NetColor=$0089007D
-Net14=NetName=DN2_TX_P|NetColor=$0089007D
-Net15=NetName=DN2_TXOUT_N|NetColor=$0089007D
-Net16=NetName=DN2_TXOUT_P|NetColor=$0089007D
-Net17=NetName=DN3_D_N|NetColor=$00FFFF6E
-Net18=NetName=DN3_D_P|NetColor=$00FFFF6E
-Net19=NetName=DN3_RX_N|NetColor=$0089007D
-Net20=NetName=DN3_RX_P|NetColor=$0089007D
-Net21=NetName=DN3_TX_N|NetColor=$0089007D
-Net22=NetName=DN3_TX_P|NetColor=$0089007D
-Net23=NetName=DN3_TXOUT_P|NetColor=$0089007D
-Net24=NetName=DN4_D_N|NetColor=$00FFFF6E
-Net25=NetName=DN4_D_P|NetColor=$00FFFF6E
-Net26=NetName=DN4_RX_N|NetColor=$0089007D
-Net27=NetName=DN4_RX_P|NetColor=$0089007D
-Net28=NetName=DN4_TX_N|NetColor=$0089007D
-Net29=NetName=DN4_TX_P|NetColor=$0089007D
-Net30=NetName=DN4_TXOUT_N|NetColor=$0089007D
-Net31=NetName=DN4_TXOUT_P|NetColor=$0089007D
-Net32=NetName=EnableCharging|NetColor=$00FF6EFF
-Net33=NetName=LimitSignal|NetColor=$00FF6EFF
-Net34=NetName=NetC20_1|NetColor=$006E6EFF
-Net35=NetName=NetC7_1|NetColor=$006EFF6E
-Net36=NetName=NetC73_2|NetColor=$0089007D
-Net37=NetName=NetR12_1|NetColor=$00FF6EFF
-Net38=NetName=NetR13_1|NetColor=$00FF6EFF
-Net39=NetName=NetR14_1|NetColor=$00FF6EFF
-Net40=NetName=NetR15_1|NetColor=$00FF6EFF
-Net41=NetName=UPS_CONNECTOR_IN_TX1_N|NetColor=$0089007D
-Net42=NetName=UPS_CONNECTOR_IN_TX1_P|NetColor=$0089007D
-Net43=NetName=UPS_CONNECTOR_IN_TX2_N|NetColor=$0089007D
-Net44=NetName=UPS_CONNECTOR_IN_TX2_P|NetColor=$0089007D
-Net45=NetName=UPS_CONNECTOR_OUT_TX1_N|NetColor=$0089007D
-Net46=NetName=UPS_CONNECTOR_OUT_TX1_P|NetColor=$0089007D
-Net47=NetName=UPS_CONNECTOR_OUT_TX2_N|NetColor=$0089007D
-Net48=NetName=UPS_CONNECTOR_OUT_TX2_P|NetColor=$0089007D
-Net49=NetName=UPS_CONNECTOR_RX1_N|NetColor=$0089007D
-Net50=NetName=UPS_CONNECTOR_RX1_P|NetColor=$0089007D
-Net51=NetName=UPS_CONNECTOR_RX2_N|NetColor=$0089007D
-Net52=NetName=UPS_CONNECTOR_RX2_P|NetColor=$0089007D
-Net53=NetName=UPS_D_N|NetColor=$00FFFF6E
-Net54=NetName=UPS_D_P|NetColor=$00FFFF6E
-Net55=NetName=UPS_IN_TX_N|NetColor=$0089007D
-Net56=NetName=UPS_IN_TX_P|NetColor=$0089007D
-Net57=NetName=UPS_RX_N|NetColor=$0089007D
-Net58=NetName=UPS_RX_P|NetColor=$0089007D
-Net59=NetName=UPS_TX_N|NetColor=$0089007D
-Net60=NetName=UPS_TX_P|NetColor=$0089007D
-Net61=NetName=UPS_TXOUT_N|NetColor=$0089007D
-Net62=NetName=UPS_TXOUT_P|NetColor=$0089007D
+Net6=NetName=DN1_TX_OUT_N|NetColor=$0089007D
+Net7=NetName=DN1_TX_OUT_P|NetColor=$0089007D
+Net8=NetName=DN1_TX_P|NetColor=$0089007D
+Net9=NetName=DN1_TXOUT_N|NetColor=$0089007D
+Net10=NetName=DN1_TXOUT_P|NetColor=$0089007D
+Net11=NetName=DN2_D_N|NetColor=$00FFFF6E
+Net12=NetName=DN2_D_P|NetColor=$00FFFF6E
+Net13=NetName=DN2_RX_N|NetColor=$0089007D
+Net14=NetName=DN2_RX_P|NetColor=$0089007D
+Net15=NetName=DN2_TX_N|NetColor=$0089007D
+Net16=NetName=DN2_TX_OUT_N|NetColor=$0089007D
+Net17=NetName=DN2_TX_OUT_P|NetColor=$0089007D
+Net18=NetName=DN2_TX_P|NetColor=$0089007D
+Net19=NetName=DN2_TXOUT_N|NetColor=$0089007D
+Net20=NetName=DN2_TXOUT_P|NetColor=$0089007D
+Net21=NetName=DN3_D_N|NetColor=$00FFFF6E
+Net22=NetName=DN3_D_P|NetColor=$00FFFF6E
+Net23=NetName=DN3_RX_N|NetColor=$0089007D
+Net24=NetName=DN3_RX_P|NetColor=$0089007D
+Net25=NetName=DN3_TX_N|NetColor=$0089007D
+Net26=NetName=DN3_TX_OUT_N|NetColor=$0089007D
+Net27=NetName=DN3_TX_OUT_P|NetColor=$0089007D
+Net28=NetName=DN3_TX_P|NetColor=$0089007D
+Net29=NetName=DN3_TXOUT_P|NetColor=$0089007D
+Net30=NetName=DN4_D_N|NetColor=$00FFFF6E
+Net31=NetName=DN4_D_P|NetColor=$00FFFF6E
+Net32=NetName=DN4_RX_N|NetColor=$0089007D
+Net33=NetName=DN4_RX_P|NetColor=$0089007D
+Net34=NetName=DN4_TX_N|NetColor=$0089007D
+Net35=NetName=DN4_TX_OUT_N|NetColor=$0089007D
+Net36=NetName=DN4_TX_OUT_P|NetColor=$0089007D
+Net37=NetName=DN4_TX_P|NetColor=$0089007D
+Net38=NetName=DN4_TXOUT_N|NetColor=$0089007D
+Net39=NetName=DN4_TXOUT_P|NetColor=$0089007D
+Net40=NetName=EnableCharging|NetColor=$00FF6EFF
+Net41=NetName=LimitSignal|NetColor=$00FF6EFF
+Net42=NetName=NetC20_1|NetColor=$006E6EFF
+Net43=NetName=NetC7_1|NetColor=$006EFF6E
+Net44=NetName=NetC73_2|NetColor=$0089007D
+Net45=NetName=NetR12_1|NetColor=$00FF6EFF
+Net46=NetName=NetR13_1|NetColor=$00FF6EFF
+Net47=NetName=NetR14_1|NetColor=$00FF6EFF
+Net48=NetName=NetR15_1|NetColor=$00FF6EFF
+Net49=NetName=UPS_CONNECTOR_IN_TX1_N|NetColor=$0089007D
+Net50=NetName=UPS_CONNECTOR_IN_TX1_P|NetColor=$0089007D
+Net51=NetName=UPS_CONNECTOR_IN_TX2_N|NetColor=$0089007D
+Net52=NetName=UPS_CONNECTOR_IN_TX2_P|NetColor=$0089007D
+Net53=NetName=UPS_CONNECTOR_OUT_TX1_N|NetColor=$0089007D
+Net54=NetName=UPS_CONNECTOR_OUT_TX1_P|NetColor=$0089007D
+Net55=NetName=UPS_CONNECTOR_OUT_TX2_N|NetColor=$0089007D
+Net56=NetName=UPS_CONNECTOR_OUT_TX2_P|NetColor=$0089007D
+Net57=NetName=UPS_CONNECTOR_RX1_N|NetColor=$0089007D
+Net58=NetName=UPS_CONNECTOR_RX1_P|NetColor=$0089007D
+Net59=NetName=UPS_CONNECTOR_RX2_N|NetColor=$0089007D
+Net60=NetName=UPS_CONNECTOR_RX2_P|NetColor=$0089007D
+Net61=NetName=UPS_D_N|NetColor=$00FFFF6E
+Net62=NetName=UPS_D_P|NetColor=$00FFFF6E
+Net63=NetName=UPS_IN_TX_N|NetColor=$0089007D
+Net64=NetName=UPS_IN_TX_P|NetColor=$0089007D
+Net65=NetName=UPS_RX_N|NetColor=$0089007D
+Net66=NetName=UPS_RX_OUT_N|NetColor=$0089007D
+Net67=NetName=UPS_RX_OUT_P|NetColor=$0089007D
+Net68=NetName=UPS_RX_P|NetColor=$0089007D
+Net69=NetName=UPS_TX_1_CONNECTOR_IN_N|NetColor=$0089007D
+Net70=NetName=UPS_TX_1_CONNECTOR_IN_P|NetColor=$0089007D
+Net71=NetName=UPS_TX_1_CONNECTOR_OUT_N|NetColor=$0089007D
+Net72=NetName=UPS_TX_1_CONNECTOR_OUT_P|NetColor=$0089007D
+Net73=NetName=UPS_TX_2_CONNECTOR_IN_N|NetColor=$0089007D
+Net74=NetName=UPS_TX_2_CONNECTOR_IN_P|NetColor=$0089007D
+Net75=NetName=UPS_TX_2_CONNECTOR_OUT_N|NetColor=$0089007D
+Net76=NetName=UPS_TX_2_CONNECTOR_OUT_P|NetColor=$0089007D
+Net77=NetName=UPS_TX_IN_N|NetColor=$0089007D
+Net78=NetName=UPS_TX_IN_P|NetColor=$0089007D
+Net79=NetName=UPS_TX_N|NetColor=$0089007D
+Net80=NetName=UPS_TX_OUT_N|NetColor=$0089007D
+Net81=NetName=UPS_TX_OUT_P|NetColor=$0089007D
+Net82=NetName=UPS_TX_P|NetColor=$0089007D
+Net83=NetName=UPS_TXOUT_N|NetColor=$0089007D
+Net84=NetName=UPS_TXOUT_P|NetColor=$0089007D
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
