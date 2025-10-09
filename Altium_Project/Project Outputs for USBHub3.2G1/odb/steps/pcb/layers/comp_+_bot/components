@@ -1,0 +1,43 @@
+UNITS=MM
+#
+#Component attribute names
+#
+@0 .comp_mount_type
+@1 .comp_height
+@2 .no_pop
+@3 .comp_ignore
+@4 .comp_variant_list
+@5 .placement_layer
+
+#
+#Component attribute text strings
+#
+&0 bottom_layer
+
+# CMP 0
+CMP 9 9.23661602 3.73800878 180 N U9 TPS2121RUXT ;0=1,1=9.5000,5=0
+PRP Manufacter 'Texas Instruments'
+PRP Montagem 'SMD'
+PRP Nome 'TPS2121RUXT'
+PRP Package 'RUX0012A'
+PRP Part_Number 'TPS2121RUXT'
+PRP Sub-Tipo 'Power MUX'
+PRP Supplier_1 'Mouser'
+PRP Supplier_2 'Digikey'
+PRP Supplier_3 'LCSC'
+PRP Supplier_Part_Number_1 '595-TPS2121RUXT'
+PRP Supplier_Part_Number_2 '296-53412-1-ND'
+PRP Supplier_Part_Number_3 'C2156025'
+TOP 0 8.5616161 3.38800948 0 N 97 0 1
+TOP 1 8.5616161 4.08800808 0 N 91 1 2
+TOP 2 8.48661498 4.88800902 90 N 85 0 3
+TOP 3 8.98661652 4.88800902 90 N 84 0 4
+TOP 4 9.48661552 4.88800902 90 N 86 0 5
+TOP 5 9.98661706 4.88800902 90 N 87 0 6
+TOP 6 9.91161594 4.08800808 0 N 95 0 7
+TOP 7 9.91161594 3.38800948 0 N 97 1 8
+TOP 8 9.98661706 2.58800854 90 N 106 16 9
+TOP 9 9.48661552 2.58800854 90 N 92 0 10
+TOP 10 8.98661652 2.58800854 90 N 0 11 11
+TOP 11 8.48661498 2.58800854 90 N 106 15 12
+#
