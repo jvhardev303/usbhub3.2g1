@@ -83,57 +83,6 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VQBVAGDQ
 
-[Document3]
-DocumentPath=USBHub3.2G1.BomDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document4]
-DocumentPath=USBHub3.2G1.sik
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document5]
-DocumentPath=USBHub3.2G1.Cam
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
 [GeneratedDocument1]
 DocumentPath=Project Outputs for USBHub3.2G1\odb\steps\pcb\layers\comp_+_bot\components
 DItemRevisionGUID=
@@ -159,274 +108,310 @@ DocumentPath=SiAnalyzerByKeysight_Output\USBHub3.2G1\ODBTemp\odb\steps\pcb\eda\d
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs for USBHub3.2G1\odb\steps\pcb\layers\boardshape\features
+DocumentPath=Project Outputs for USBHub3.2G1\odb\steps\pcb\layers\board_layer_stack_bottom_overlay\features
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs for USBHub3.2G1\odb\steps\pcb\layers\bottom_layer\features
+DocumentPath=Project Outputs for USBHub3.2G1\odb\steps\pcb\layers\board_layer_stack_bottom_solder\features
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs for USBHub3.2G1\odb\steps\pcb\layers\bottom_overlay\features
+DocumentPath=Project Outputs for USBHub3.2G1\odb\steps\pcb\layers\board_layer_stack_top_solder\features
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs for USBHub3.2G1\odb\steps\pcb\layers\bottom_paste\features
+DocumentPath=Project Outputs for USBHub3.2G1\odb\steps\pcb\layers\boardshape\features
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Project Outputs for USBHub3.2G1\odb\steps\pcb\layers\bottom_solder\features
+DocumentPath=Project Outputs for USBHub3.2G1\odb\steps\pcb\layers\bottom_layer\features
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Project Outputs for USBHub3.2G1\odb\steps\pcb\layers\comp_+_bot\features
+DocumentPath=Project Outputs for USBHub3.2G1\odb\steps\pcb\layers\bottom_overlay\features
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Project Outputs for USBHub3.2G1\odb\steps\pcb\layers\comp_+_top\features
+DocumentPath=Project Outputs for USBHub3.2G1\odb\steps\pcb\layers\bottom_paste\features
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Project Outputs for USBHub3.2G1\odb\steps\pcb\layers\dielectric_1\features
+DocumentPath=Project Outputs for USBHub3.2G1\odb\steps\pcb\layers\bottom_solder\features
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=Project Outputs for USBHub3.2G1\odb\steps\pcb\layers\dielectric_2\features
+DocumentPath=Project Outputs for USBHub3.2G1\odb\steps\pcb\layers\bottom_surface_finish\features
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=Project Outputs for USBHub3.2G1\odb\steps\pcb\layers\dielectric_3\features
+DocumentPath=Project Outputs for USBHub3.2G1\odb\steps\pcb\layers\comp_+_bot\features
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=Project Outputs for USBHub3.2G1\odb\steps\pcb\layers\dielectric_4\features
+DocumentPath=Project Outputs for USBHub3.2G1\odb\steps\pcb\layers\comp_+_top\features
 DItemRevisionGUID=
 
 [GeneratedDocument18]
-DocumentPath=Project Outputs for USBHub3.2G1\odb\steps\pcb\layers\dielectric_5\features
+DocumentPath=Project Outputs for USBHub3.2G1\odb\steps\pcb\layers\dielectric_1\features
 DItemRevisionGUID=
 
 [GeneratedDocument19]
-DocumentPath=Project Outputs for USBHub3.2G1\odb\steps\pcb\layers\drill_drawing_top_layer-bottom_layer\features
+DocumentPath=Project Outputs for USBHub3.2G1\odb\steps\pcb\layers\dielectric_2\features
 DItemRevisionGUID=
 
 [GeneratedDocument20]
-DocumentPath=Project Outputs for USBHub3.2G1\odb\steps\pcb\layers\drill_guide_top_layer-bottom_layer\features
+DocumentPath=Project Outputs for USBHub3.2G1\odb\steps\pcb\layers\dielectric_3\features
 DItemRevisionGUID=
 
 [GeneratedDocument21]
-DocumentPath=Project Outputs for USBHub3.2G1\odb\steps\pcb\layers\drill_non-plated_bottom_layer-top_layer\features
+DocumentPath=Project Outputs for USBHub3.2G1\odb\steps\pcb\layers\dielectric_4\features
 DItemRevisionGUID=
 
 [GeneratedDocument22]
-DocumentPath=Project Outputs for USBHub3.2G1\odb\steps\pcb\layers\drill_plated_bottom_layer-top_layer\features
+DocumentPath=Project Outputs for USBHub3.2G1\odb\steps\pcb\layers\dielectric_5\features
 DItemRevisionGUID=
 
 [GeneratedDocument23]
-DocumentPath=Project Outputs for USBHub3.2G1\odb\steps\pcb\layers\inner_layer_1\features
+DocumentPath=Project Outputs for USBHub3.2G1\odb\steps\pcb\layers\drill_drawing_top_layer-bottom_layer\features
 DItemRevisionGUID=
 
 [GeneratedDocument24]
-DocumentPath=Project Outputs for USBHub3.2G1\odb\steps\pcb\layers\inner_layer_2\features
+DocumentPath=Project Outputs for USBHub3.2G1\odb\steps\pcb\layers\drill_guide_top_layer-bottom_layer\features
 DItemRevisionGUID=
 
 [GeneratedDocument25]
-DocumentPath=Project Outputs for USBHub3.2G1\odb\steps\pcb\layers\inner_layer_3\features
+DocumentPath=Project Outputs for USBHub3.2G1\odb\steps\pcb\layers\drill_non-plated_bottom_layer-top_layer\features
 DItemRevisionGUID=
 
 [GeneratedDocument26]
-DocumentPath=Project Outputs for USBHub3.2G1\odb\steps\pcb\layers\inner_layer_4\features
+DocumentPath=Project Outputs for USBHub3.2G1\odb\steps\pcb\layers\drill_plated_bottom_layer-top_layer\features
 DItemRevisionGUID=
 
 [GeneratedDocument27]
-DocumentPath=Project Outputs for USBHub3.2G1\odb\steps\pcb\layers\keep-out_layer\features
+DocumentPath=Project Outputs for USBHub3.2G1\odb\steps\pcb\layers\inner_layer_1\features
 DItemRevisionGUID=
 
 [GeneratedDocument28]
-DocumentPath=Project Outputs for USBHub3.2G1\odb\steps\pcb\layers\mechanical_1\features
+DocumentPath=Project Outputs for USBHub3.2G1\odb\steps\pcb\layers\inner_layer_2\features
 DItemRevisionGUID=
 
 [GeneratedDocument29]
-DocumentPath=Project Outputs for USBHub3.2G1\odb\steps\pcb\layers\mechanical_13\features
+DocumentPath=Project Outputs for USBHub3.2G1\odb\steps\pcb\layers\inner_layer_3\features
 DItemRevisionGUID=
 
 [GeneratedDocument30]
-DocumentPath=Project Outputs for USBHub3.2G1\odb\steps\pcb\layers\mechanical_15\features
+DocumentPath=Project Outputs for USBHub3.2G1\odb\steps\pcb\layers\inner_layer_4\features
 DItemRevisionGUID=
 
 [GeneratedDocument31]
-DocumentPath=Project Outputs for USBHub3.2G1\odb\steps\pcb\layers\top_layer\features
+DocumentPath=Project Outputs for USBHub3.2G1\odb\steps\pcb\layers\keep-out_layer\features
 DItemRevisionGUID=
 
 [GeneratedDocument32]
-DocumentPath=Project Outputs for USBHub3.2G1\odb\steps\pcb\layers\top_overlay\features
+DocumentPath=Project Outputs for USBHub3.2G1\odb\steps\pcb\layers\layer_1\features
 DItemRevisionGUID=
 
 [GeneratedDocument33]
-DocumentPath=Project Outputs for USBHub3.2G1\odb\steps\pcb\layers\top_paste\features
+DocumentPath=Project Outputs for USBHub3.2G1\odb\steps\pcb\layers\mechanical_1\features
 DItemRevisionGUID=
 
 [GeneratedDocument34]
-DocumentPath=Project Outputs for USBHub3.2G1\odb\steps\pcb\layers\top_solder\features
+DocumentPath=Project Outputs for USBHub3.2G1\odb\steps\pcb\layers\mechanical_13\features
 DItemRevisionGUID=
 
 [GeneratedDocument35]
-DocumentPath=Project Outputs for USBHub3.2G1\odb\symbols\oblong_th2923.99974x2123.9988x45x4x254\features
+DocumentPath=Project Outputs for USBHub3.2G1\odb\steps\pcb\layers\mechanical_15\features
 DItemRevisionGUID=
 
 [GeneratedDocument36]
-DocumentPath=Project Outputs for USBHub3.2G1\odb\symbols\oblong_th3223.99914x2123.9988x45x4x254\features
+DocumentPath=Project Outputs for USBHub3.2G1\odb\steps\pcb\layers\top_3d_body\features
 DItemRevisionGUID=
 
 [GeneratedDocument37]
-DocumentPath=SiAnalyzerByKeysight_Output\USBHub3.2G1\ODBTemp\odb\steps\pcb\layers\bottom_layer\features
+DocumentPath=Project Outputs for USBHub3.2G1\odb\steps\pcb\layers\top_courtyard\features
 DItemRevisionGUID=
 
 [GeneratedDocument38]
-DocumentPath=SiAnalyzerByKeysight_Output\USBHub3.2G1\ODBTemp\odb\steps\pcb\layers\bottom_overlay\features
+DocumentPath=Project Outputs for USBHub3.2G1\odb\steps\pcb\layers\top_layer\features
 DItemRevisionGUID=
 
 [GeneratedDocument39]
-DocumentPath=SiAnalyzerByKeysight_Output\USBHub3.2G1\ODBTemp\odb\steps\pcb\layers\bottom_paste\features
+DocumentPath=Project Outputs for USBHub3.2G1\odb\steps\pcb\layers\top_overlay\features
 DItemRevisionGUID=
 
 [GeneratedDocument40]
-DocumentPath=SiAnalyzerByKeysight_Output\USBHub3.2G1\ODBTemp\odb\steps\pcb\layers\bottom_solder\features
+DocumentPath=Project Outputs for USBHub3.2G1\odb\steps\pcb\layers\top_paste\features
 DItemRevisionGUID=
 
 [GeneratedDocument41]
-DocumentPath=SiAnalyzerByKeysight_Output\USBHub3.2G1\ODBTemp\odb\steps\pcb\layers\comp_+_bot\features
+DocumentPath=Project Outputs for USBHub3.2G1\odb\steps\pcb\layers\top_solder\features
 DItemRevisionGUID=
 
 [GeneratedDocument42]
-DocumentPath=SiAnalyzerByKeysight_Output\USBHub3.2G1\ODBTemp\odb\steps\pcb\layers\comp_+_top\features
+DocumentPath=Project Outputs for USBHub3.2G1\odb\steps\pcb\layers\top_surface_finish\features
 DItemRevisionGUID=
 
 [GeneratedDocument43]
-DocumentPath=SiAnalyzerByKeysight_Output\USBHub3.2G1\ODBTemp\odb\steps\pcb\layers\dielectric_1\features
+DocumentPath=Project Outputs for USBHub3.2G1\odb\symbols\oblong_th2794x2123.9988x45x4x254\features
 DItemRevisionGUID=
 
 [GeneratedDocument44]
-DocumentPath=SiAnalyzerByKeysight_Output\USBHub3.2G1\ODBTemp\odb\steps\pcb\layers\dielectric_2\features
+DocumentPath=Project Outputs for USBHub3.2G1\odb\symbols\oblong_th2923.99974x2123.9988x45x4x254\features
 DItemRevisionGUID=
 
 [GeneratedDocument45]
-DocumentPath=SiAnalyzerByKeysight_Output\USBHub3.2G1\ODBTemp\odb\steps\pcb\layers\dielectric_3\features
+DocumentPath=Project Outputs for USBHub3.2G1\odb\symbols\oblong_th3223.99914x2123.9988x45x4x254\features
 DItemRevisionGUID=
 
 [GeneratedDocument46]
-DocumentPath=SiAnalyzerByKeysight_Output\USBHub3.2G1\ODBTemp\odb\steps\pcb\layers\dielectric_4\features
+DocumentPath=SiAnalyzerByKeysight_Output\USBHub3.2G1\ODBTemp\odb\steps\pcb\layers\bottom_layer\features
 DItemRevisionGUID=
 
 [GeneratedDocument47]
-DocumentPath=SiAnalyzerByKeysight_Output\USBHub3.2G1\ODBTemp\odb\steps\pcb\layers\dielectric_5\features
+DocumentPath=SiAnalyzerByKeysight_Output\USBHub3.2G1\ODBTemp\odb\steps\pcb\layers\bottom_overlay\features
 DItemRevisionGUID=
 
 [GeneratedDocument48]
-DocumentPath=SiAnalyzerByKeysight_Output\USBHub3.2G1\ODBTemp\odb\steps\pcb\layers\drill_non-plated_bottom_layer-top_layer\features
+DocumentPath=SiAnalyzerByKeysight_Output\USBHub3.2G1\ODBTemp\odb\steps\pcb\layers\bottom_paste\features
 DItemRevisionGUID=
 
 [GeneratedDocument49]
-DocumentPath=SiAnalyzerByKeysight_Output\USBHub3.2G1\ODBTemp\odb\steps\pcb\layers\drill_plated_bottom_layer-top_layer\features
+DocumentPath=SiAnalyzerByKeysight_Output\USBHub3.2G1\ODBTemp\odb\steps\pcb\layers\bottom_solder\features
 DItemRevisionGUID=
 
 [GeneratedDocument50]
-DocumentPath=SiAnalyzerByKeysight_Output\USBHub3.2G1\ODBTemp\odb\steps\pcb\layers\inner_layer_1\features
+DocumentPath=SiAnalyzerByKeysight_Output\USBHub3.2G1\ODBTemp\odb\steps\pcb\layers\comp_+_bot\features
 DItemRevisionGUID=
 
 [GeneratedDocument51]
-DocumentPath=SiAnalyzerByKeysight_Output\USBHub3.2G1\ODBTemp\odb\steps\pcb\layers\inner_layer_2\features
+DocumentPath=SiAnalyzerByKeysight_Output\USBHub3.2G1\ODBTemp\odb\steps\pcb\layers\comp_+_top\features
 DItemRevisionGUID=
 
 [GeneratedDocument52]
-DocumentPath=SiAnalyzerByKeysight_Output\USBHub3.2G1\ODBTemp\odb\steps\pcb\layers\inner_layer_3\features
+DocumentPath=SiAnalyzerByKeysight_Output\USBHub3.2G1\ODBTemp\odb\steps\pcb\layers\dielectric_1\features
 DItemRevisionGUID=
 
 [GeneratedDocument53]
-DocumentPath=SiAnalyzerByKeysight_Output\USBHub3.2G1\ODBTemp\odb\steps\pcb\layers\inner_layer_4\features
+DocumentPath=SiAnalyzerByKeysight_Output\USBHub3.2G1\ODBTemp\odb\steps\pcb\layers\dielectric_2\features
 DItemRevisionGUID=
 
 [GeneratedDocument54]
-DocumentPath=SiAnalyzerByKeysight_Output\USBHub3.2G1\ODBTemp\odb\steps\pcb\layers\top_layer\features
+DocumentPath=SiAnalyzerByKeysight_Output\USBHub3.2G1\ODBTemp\odb\steps\pcb\layers\dielectric_3\features
 DItemRevisionGUID=
 
 [GeneratedDocument55]
-DocumentPath=SiAnalyzerByKeysight_Output\USBHub3.2G1\ODBTemp\odb\steps\pcb\layers\top_overlay\features
+DocumentPath=SiAnalyzerByKeysight_Output\USBHub3.2G1\ODBTemp\odb\steps\pcb\layers\dielectric_4\features
 DItemRevisionGUID=
 
 [GeneratedDocument56]
-DocumentPath=SiAnalyzerByKeysight_Output\USBHub3.2G1\ODBTemp\odb\steps\pcb\layers\top_paste\features
+DocumentPath=SiAnalyzerByKeysight_Output\USBHub3.2G1\ODBTemp\odb\steps\pcb\layers\dielectric_5\features
 DItemRevisionGUID=
 
 [GeneratedDocument57]
-DocumentPath=SiAnalyzerByKeysight_Output\USBHub3.2G1\ODBTemp\odb\steps\pcb\layers\top_solder\features
+DocumentPath=SiAnalyzerByKeysight_Output\USBHub3.2G1\ODBTemp\odb\steps\pcb\layers\drill_non-plated_bottom_layer-top_layer\features
 DItemRevisionGUID=
 
 [GeneratedDocument58]
-DocumentPath=SiAnalyzerByKeysight_Output\USBHub3.2G1\ODBTemp\odb\symbols\oblong_th115.1181x83.622x45x4x10\features
+DocumentPath=SiAnalyzerByKeysight_Output\USBHub3.2G1\ODBTemp\odb\steps\pcb\layers\drill_plated_bottom_layer-top_layer\features
 DItemRevisionGUID=
 
 [GeneratedDocument59]
-DocumentPath=SiAnalyzerByKeysight_Output\USBHub3.2G1\ODBTemp\odb\symbols\oblong_th126.9291x83.622x45x4x10\features
+DocumentPath=SiAnalyzerByKeysight_Output\USBHub3.2G1\ODBTemp\odb\steps\pcb\layers\inner_layer_1\features
 DItemRevisionGUID=
 
 [GeneratedDocument60]
-DocumentPath=Project Outputs for USBHub3.2G1\odb\matrix\matrix
+DocumentPath=SiAnalyzerByKeysight_Output\USBHub3.2G1\ODBTemp\odb\steps\pcb\layers\inner_layer_2\features
 DItemRevisionGUID=
 
 [GeneratedDocument61]
-DocumentPath=SiAnalyzerByKeysight_Output\USBHub3.2G1\ODBTemp\odb\matrix\matrix
+DocumentPath=SiAnalyzerByKeysight_Output\USBHub3.2G1\ODBTemp\odb\steps\pcb\layers\inner_layer_3\features
 DItemRevisionGUID=
 
 [GeneratedDocument62]
-DocumentPath=Project Outputs for USBHub3.2G1\odb\steps\pcb\netlists\cadnet\netlist
+DocumentPath=SiAnalyzerByKeysight_Output\USBHub3.2G1\ODBTemp\odb\steps\pcb\layers\inner_layer_4\features
 DItemRevisionGUID=
 
 [GeneratedDocument63]
-DocumentPath=SiAnalyzerByKeysight_Output\USBHub3.2G1\ODBTemp\odb\steps\pcb\netlists\cadnet\netlist
+DocumentPath=SiAnalyzerByKeysight_Output\USBHub3.2G1\ODBTemp\odb\steps\pcb\layers\top_layer\features
 DItemRevisionGUID=
 
 [GeneratedDocument64]
-DocumentPath=Project Outputs for USBHub3.2G1\odb\steps\pcb\profile
+DocumentPath=SiAnalyzerByKeysight_Output\USBHub3.2G1\ODBTemp\odb\steps\pcb\layers\top_overlay\features
 DItemRevisionGUID=
 
 [GeneratedDocument65]
-DocumentPath=SiAnalyzerByKeysight_Output\USBHub3.2G1\ODBTemp\odb\steps\pcb\profile
+DocumentPath=SiAnalyzerByKeysight_Output\USBHub3.2G1\ODBTemp\odb\steps\pcb\layers\top_paste\features
 DItemRevisionGUID=
 
 [GeneratedDocument66]
-DocumentPath=Project Outputs for USBHub3.2G1\odb\steps\pcb\stephdr
+DocumentPath=SiAnalyzerByKeysight_Output\USBHub3.2G1\ODBTemp\odb\steps\pcb\layers\top_solder\features
 DItemRevisionGUID=
 
 [GeneratedDocument67]
-DocumentPath=SiAnalyzerByKeysight_Output\USBHub3.2G1\ODBTemp\odb\steps\pcb\stephdr
+DocumentPath=SiAnalyzerByKeysight_Output\USBHub3.2G1\ODBTemp\odb\symbols\oblong_th115.1181x83.622x45x4x10\features
 DItemRevisionGUID=
 
 [GeneratedDocument68]
-DocumentPath=Project Outputs for USBHub3.2G1\odb\steps\pcb\layers\drill_non-plated_bottom_layer-top_layer\tools
+DocumentPath=SiAnalyzerByKeysight_Output\USBHub3.2G1\ODBTemp\odb\symbols\oblong_th126.9291x83.622x45x4x10\features
 DItemRevisionGUID=
 
 [GeneratedDocument69]
-DocumentPath=Project Outputs for USBHub3.2G1\odb\steps\pcb\layers\drill_plated_bottom_layer-top_layer\tools
+DocumentPath=Project Outputs for USBHub3.2G1\odb\matrix\matrix
 DItemRevisionGUID=
 
 [GeneratedDocument70]
-DocumentPath=SiAnalyzerByKeysight_Output\USBHub3.2G1\ODBTemp\odb\steps\pcb\layers\drill_non-plated_bottom_layer-top_layer\tools
+DocumentPath=SiAnalyzerByKeysight_Output\USBHub3.2G1\ODBTemp\odb\matrix\matrix
 DItemRevisionGUID=
 
 [GeneratedDocument71]
-DocumentPath=SiAnalyzerByKeysight_Output\USBHub3.2G1\ODBTemp\odb\steps\pcb\layers\drill_plated_bottom_layer-top_layer\tools
+DocumentPath=Project Outputs for USBHub3.2G1\odb\steps\pcb\netlists\cadnet\netlist
 DItemRevisionGUID=
 
 [GeneratedDocument72]
-DocumentPath=Project Outputs for USBHub3.2G1\USBHub3.2G1.REP
+DocumentPath=SiAnalyzerByKeysight_Output\USBHub3.2G1\ODBTemp\odb\steps\pcb\netlists\cadnet\netlist
 DItemRevisionGUID=
 
 [GeneratedDocument73]
-DocumentPath=SiAnalyzerByKeysight_Output\USBHub3.2G1\ODBTemp\USBHub3.2G1.REP
+DocumentPath=Project Outputs for USBHub3.2G1\odb\steps\pcb\profile
 DItemRevisionGUID=
 
 [GeneratedDocument74]
+DocumentPath=SiAnalyzerByKeysight_Output\USBHub3.2G1\ODBTemp\odb\steps\pcb\profile
+DItemRevisionGUID=
+
+[GeneratedDocument75]
+DocumentPath=Project Outputs for USBHub3.2G1\odb\steps\pcb\stephdr
+DItemRevisionGUID=
+
+[GeneratedDocument76]
+DocumentPath=SiAnalyzerByKeysight_Output\USBHub3.2G1\ODBTemp\odb\steps\pcb\stephdr
+DItemRevisionGUID=
+
+[GeneratedDocument77]
+DocumentPath=Project Outputs for USBHub3.2G1\odb\steps\pcb\layers\drill_non-plated_bottom_layer-top_layer\tools
+DItemRevisionGUID=
+
+[GeneratedDocument78]
+DocumentPath=Project Outputs for USBHub3.2G1\odb\steps\pcb\layers\drill_plated_bottom_layer-top_layer\tools
+DItemRevisionGUID=
+
+[GeneratedDocument79]
+DocumentPath=SiAnalyzerByKeysight_Output\USBHub3.2G1\ODBTemp\odb\steps\pcb\layers\drill_non-plated_bottom_layer-top_layer\tools
+DItemRevisionGUID=
+
+[GeneratedDocument80]
+DocumentPath=SiAnalyzerByKeysight_Output\USBHub3.2G1\ODBTemp\odb\steps\pcb\layers\drill_plated_bottom_layer-top_layer\tools
+DItemRevisionGUID=
+
+[GeneratedDocument81]
+DocumentPath=Project Outputs for USBHub3.2G1\USBHub3.2G1.REP
+DItemRevisionGUID=
+
+[GeneratedDocument82]
+DocumentPath=SiAnalyzerByKeysight_Output\USBHub3.2G1\ODBTemp\USBHub3.2G1.REP
+DItemRevisionGUID=
+
+[GeneratedDocument83]
 DocumentPath=SiAnalyzerByKeysight_Output\USBHub3.2G1\ODBTemp\odb\user\USBHub3.2G1.RUL
 DItemRevisionGUID=
 
@@ -717,7 +702,7 @@ OutputDefault6=0
 Configuration6_Name1=ForceUpdateSettings
 Configuration6_Item1=False
 Configuration6_Name2=OutputConfigurationParameter1
-Configuration6_Item2=Compression_None=True|Compression_tar_tgz=True|Compression_zip=True|DifferentFootprints=True|ExportPositivePlaneLayers=False|GenerateDRCRulesFile=False|IncludeUnconnectedMidLayerPads=False|IncludeVariantsData=False|IntentionalShorts=False|MergeNetTieNets=False|ObjsInsideBoardOutlineOnly=False|ODBProfileLayer=-1000|ODBProfileLayerV7=-1|PlotBackDrillingPairs=False|PlotBlindViasPairs=False|PlotBottomLayerPlot=True|PlotBottomOverlayPlot=True|PlotBottomPastePlot=True|PlotBottomSolderPlot=True|PlotCounterHolesPairs=False|PlotDrillDrawingPair0_DrillType=Regular|PlotDrillDrawingPair0_HighLayer=Bottom Layer|PlotDrillDrawingPair0_LowLayer=Top Layer|PlotDrillDrawingPair0_Plot=True|PlotDrillDrawingPairs=False|PlotDrillGuidePair0_DrillType=Regular|PlotDrillGuidePair0_HighLayer=Bottom Layer|PlotDrillGuidePair0_LowLayer=Top Layer|PlotDrillGuidePair0_Plot=True|PlotDrillGuidePairs=False|PlotInternalPlane10Plot=False|PlotInternalPlane11Plot=False|PlotInternalPlane12Plot=False|PlotInternalPlane13Plot=False|PlotInternalPlane14Plot=False|PlotInternalPlane15Plot=False|PlotInternalPlane16Plot=False|PlotInternalPlane1Plot=True|PlotInternalPlane2Plot=True|PlotInternalPlane3Plot=False|PlotInternalPlane4Plot=False|PlotInternalPlane5Plot=False|PlotInternalPlane6Plot=False|PlotInternalPlane7Plot=False|PlotInternalPlane8Plot=False|PlotInternalPlane9Plot=False|PlotKeepOutLayerPlot=True|PlotMechanical10Plot=False|PlotMechanical11Plot=False|PlotMechanical12Plot=False|PlotMechanical13Plot=True|PlotMechanical14Plot=False|PlotMechanical15Plot=True|PlotMechanical16Plot=False|PlotMechanical1Plot=True|PlotMechanical2Plot=True|PlotMechanical3Plot=False|PlotMechanical4Plot=False|PlotMechanical5Plot=False|PlotMechanical6Plot=False|PlotMechanical7Plot=False|PlotMechanical8Plot=False|PlotMechanical9Plot=False|PlotMicroViasPairs=False|PlotMidLayer10Plot=False|PlotMidLayer11Plot=False|PlotMidLayer12Plot=False|PlotMidLayer13Plot=False|PlotMidLayer14Plot=False|PlotMidLayer15Plot=False|PlotMidLayer16Plot=False|PlotMidLayer17Plot=False|PlotMidLayer18Plot=False|PlotMidLayer19Plot=False|PlotMidLayer1Plot=False|PlotMidLayer20Plot=False|PlotMidLayer21Plot=False|PlotMidLayer22Plot=False|PlotMidLayer23Plot=False|PlotMidLayer24Plot=False|PlotMidLayer25Plot=False|PlotMidLayer26Plot=False|PlotMidLayer27Plot=False|PlotMidLayer28Plot=False|PlotMidLayer29Plot=False|PlotMidLayer2Plot=True|PlotMidLayer30Plot=False|PlotMidLayer3Plot=True|PlotMidLayer4Plot=False|PlotMidLayer5Plot=False|PlotMidLayer6Plot=False|PlotMidLayer7Plot=False|PlotMidLayer8Plot=False|PlotMidLayer9Plot=False|PlotNPTHPair0_DrillType=Regular|PlotNPTHPair0_HighLayer=Top Layer|PlotNPTHPair0_LowLayer=Bottom Layer|PlotNPTHPair0_Plot=True|PlotNPTHPairs=False|PlotPTHPair0_DrillType=Regular|PlotPTHPair0_HighLayer=Top Layer|PlotPTHPair0_LowLayer=Bottom Layer|PlotPTHPair0_Plot=True|PlotPTHPairs=False|PlotTopLayerPlot=True|PlotTopOverlayPlot=True|PlotTopPastePlot=True|PlotTopSolderPlot=True|PlotViaTypeDrillDrawingPairs=False|PlotViaTypeDrillGuidePairs=False|PlotViaTypeDrillPairs=False|Record=ODBView|ToolsByDrillSymbols=False|Units=Metric|Version=8.1|DocumentPath=C:\ProjectsOpenSource\USBHub3.2G1\Altium_Project\USBHub3.2G1.PcbDoc
+Configuration6_Item2=Compression_None=True|Compression_tar_tgz=True|Compression_zip=True|DifferentFootprints=True|ExportPositivePlaneLayers=False|GenerateDRCRulesFile=False|IncludeUnconnectedMidLayerPads=False|IncludeVariantsData=False|IntentionalShorts=False|MergeNetTieNets=False|ObjsInsideBoardOutlineOnly=False|ODBProfileLayer=-1000|ODBProfileLayerV7=-1|PlotBackDrillingPairs=False|PlotBlindViasPairs=False|PlotBottomLayerPlot=True|PlotBottomOverlayPlot=True|PlotBottomPastePlot=True|PlotBottomSolderPlot=True|PlotCounterHolesPairs=False|PlotDrillDrawingPair0_DrillType=Regular|PlotDrillDrawingPair0_HighLayer=Bottom Layer|PlotDrillDrawingPair0_LowLayer=Top Layer|PlotDrillDrawingPair0_Plot=True|PlotDrillDrawingPairs=False|PlotDrillGuidePair0_DrillType=Regular|PlotDrillGuidePair0_HighLayer=Bottom Layer|PlotDrillGuidePair0_LowLayer=Top Layer|PlotDrillGuidePair0_Plot=True|PlotDrillGuidePairs=False|PlotInternalPlane10Plot=False|PlotInternalPlane11Plot=False|PlotInternalPlane12Plot=False|PlotInternalPlane13Plot=False|PlotInternalPlane14Plot=False|PlotInternalPlane15Plot=False|PlotInternalPlane16Plot=False|PlotInternalPlane1Plot=True|PlotInternalPlane2Plot=True|PlotInternalPlane3Plot=False|PlotInternalPlane4Plot=False|PlotInternalPlane5Plot=False|PlotInternalPlane6Plot=False|PlotInternalPlane7Plot=False|PlotInternalPlane8Plot=False|PlotInternalPlane9Plot=False|PlotKeepOutLayerPlot=True|PlotMechanical10Plot=False|PlotMechanical11Plot=False|PlotMechanical12Plot=False|PlotMechanical13Plot=True|PlotMechanical14Plot=False|PlotMechanical15Plot=True|PlotMechanical16Plot=False|PlotMechanical1Plot=False|PlotMechanical2Plot=False|PlotMechanical3Plot=False|PlotMechanical4Plot=False|PlotMechanical5Plot=False|PlotMechanical6Plot=False|PlotMechanical7Plot=False|PlotMechanical8Plot=False|PlotMechanical9Plot=False|PlotMicroViasPairs=False|PlotMidLayer10Plot=False|PlotMidLayer11Plot=False|PlotMidLayer12Plot=False|PlotMidLayer13Plot=False|PlotMidLayer14Plot=False|PlotMidLayer15Plot=False|PlotMidLayer16Plot=False|PlotMidLayer17Plot=False|PlotMidLayer18Plot=False|PlotMidLayer19Plot=False|PlotMidLayer1Plot=False|PlotMidLayer20Plot=False|PlotMidLayer21Plot=False|PlotMidLayer22Plot=False|PlotMidLayer23Plot=False|PlotMidLayer24Plot=False|PlotMidLayer25Plot=False|PlotMidLayer26Plot=False|PlotMidLayer27Plot=False|PlotMidLayer28Plot=False|PlotMidLayer29Plot=False|PlotMidLayer2Plot=False|PlotMidLayer30Plot=False|PlotMidLayer3Plot=False|PlotMidLayer4Plot=False|PlotMidLayer5Plot=False|PlotMidLayer6Plot=False|PlotMidLayer7Plot=False|PlotMidLayer8Plot=False|PlotMidLayer9Plot=False|PlotNPTHPair0_DrillType=Regular|PlotNPTHPair0_HighLayer=Top Layer|PlotNPTHPair0_LowLayer=Bottom Layer|PlotNPTHPair0_Plot=True|PlotNPTHPairs=False|PlotPTHPair0_DrillType=Regular|PlotPTHPair0_HighLayer=Top Layer|PlotPTHPair0_LowLayer=Bottom Layer|PlotPTHPair0_Plot=True|PlotPTHPairs=False|PlotTopLayerPlot=True|PlotTopOverlayPlot=True|PlotTopPastePlot=True|PlotTopSolderPlot=True|PlotViaTypeDrillDrawingPairs=False|PlotViaTypeDrillGuidePairs=False|PlotViaTypeDrillPairs=False|Record=ODBView|ToolsByDrillSymbols=False|Units=Metric|Version=8.1|DocumentPath=C:\ProjectsOpenSource\USBHub3.2G1\Altium_Project\USBHub3.2G1.PcbDoc
 OutputType7=Drill
 OutputName7=Drill Drawing/Guides
 OutputDocumentPath7=
@@ -1114,7 +1099,7 @@ Type8=1
 Type9=1
 Type10=1
 Type11=1
-Type12=1
+Type12=0
 Type13=1
 Type14=1
 Type15=1
@@ -1397,256 +1382,16 @@ NetClassManualEnabled=1
 NetClassSeparateForBusSections=0
 
 [LibraryUpdateOptions]
-SelectedOnly=0
+SelectedOnly=1
 UpdateVariants=1
 UpdateToLatestRevision=1
 PartTypes=0
 ComponentLibIdentifierKind0=Library Name And Type
-ComponentLibraryIdentifier0=MemLib.DbLib/Capacitores
-ComponentDesignItemID0=GCM155R72A102KA37J
-ComponentSymbolReference0=CAPNPOL
+ComponentLibraryIdentifier0=MemLib.DbLib/Circuitos Integrados
+ComponentDesignItemID0=HD3SS3220IRNHR
+ComponentSymbolReference0=HD3SS3220IRNHR
 ComponentUpdate0=1
 ComponentIsDeviceSheet0=0
-ComponentLibIdentifierKind1=Library Name And Type
-ComponentLibraryIdentifier1=MemLib.DbLib/Capacitores
-ComponentDesignItemID1=GRM1555C1H180FA01D
-ComponentSymbolReference1=CAPNPOL
-ComponentUpdate1=1
-ComponentIsDeviceSheet1=0
-ComponentLibIdentifierKind2=Library Name And Type
-ComponentLibraryIdentifier2=MemLib.DbLib/Capacitores
-ComponentDesignItemID2=GRM155C81A105MA12D
-ComponentSymbolReference2=CAPNPOL
-ComponentUpdate2=1
-ComponentIsDeviceSheet2=0
-ComponentLibIdentifierKind3=Library Name And Type
-ComponentLibraryIdentifier3=MemLib.DbLib/Capacitores
-ComponentDesignItemID3=GRM155R61A106ME11D
-ComponentSymbolReference3=CAPNPOL
-ComponentUpdate3=1
-ComponentIsDeviceSheet3=0
-ComponentLibIdentifierKind4=Library Name And Type
-ComponentLibraryIdentifier4=MemLib.DbLib/Capacitores
-ComponentDesignItemID4=GRT033R61C104KE01D
-ComponentSymbolReference4=CAPNPOL
-ComponentUpdate4=1
-ComponentIsDeviceSheet4=0
-ComponentLibIdentifierKind5=Library Name And Type
-ComponentLibraryIdentifier5=MemLib.DbLib/Capacitores
-ComponentDesignItemID5=GRT155R71C104KE01J
-ComponentSymbolReference5=CAPNPOL
-ComponentUpdate5=1
-ComponentIsDeviceSheet5=0
-ComponentLibIdentifierKind6=Library Name And Type
-ComponentLibraryIdentifier6=MemLib.DbLib/Capacitores
-ComponentDesignItemID6=GRT155R71E103KE01D
-ComponentSymbolReference6=CAPNPOL
-ComponentUpdate6=1
-ComponentIsDeviceSheet6=0
-ComponentLibIdentifierKind7=Library Name And Type
-ComponentLibraryIdentifier7=MemLib.DbLib/Capacitores
-ComponentDesignItemID7=TCJB157M006R0070
-ComponentSymbolReference7=CAPPOL
-ComponentUpdate7=1
-ComponentIsDeviceSheet7=0
-ComponentLibIdentifierKind8=Library Name And Type
-ComponentLibraryIdentifier8=MemLib.DbLib/Circuitos Integrados
-ComponentDesignItemID8=HD3SS3220IRNHR
-ComponentSymbolReference8=HD3SS3220IRNHR
-ComponentUpdate8=1
-ComponentIsDeviceSheet8=0
-ComponentLibIdentifierKind9=Library Name And Type
-ComponentLibraryIdentifier9=MemLib.DbLib/Circuitos Integrados
-ComponentDesignItemID9=SN74LVC1G14DBVR
-ComponentSymbolReference9=SN74LVC1G14DBVR
-ComponentUpdate9=1
-ComponentIsDeviceSheet9=0
-ComponentLibIdentifierKind10=Library Name And Type
-ComponentLibraryIdentifier10=MemLib.DbLib/Circuitos Integrados
-ComponentDesignItemID10=TPS2121RUXT
-ComponentSymbolReference10=TPS2121RUXT
-ComponentUpdate10=1
-ComponentIsDeviceSheet10=0
-ComponentLibIdentifierKind11=Library Name And Type
-ComponentLibraryIdentifier11=MemLib.DbLib/Circuitos Integrados
-ComponentDesignItemID11=TPS2553DRVR
-ComponentSymbolReference11=TPS2553DRVR
-ComponentUpdate11=1
-ComponentIsDeviceSheet11=0
-ComponentLibIdentifierKind12=Library Name And Type
-ComponentLibraryIdentifier12=MemLib.DbLib/Circuitos Integrados
-ComponentDesignItemID12=TPS74801RGWRM3
-ComponentSymbolReference12=TPS74801RGWRM3
-ComponentUpdate12=1
-ComponentIsDeviceSheet12=0
-ComponentLibIdentifierKind13=Library Name And Type
-ComponentLibraryIdentifier13=MemLib.DbLib/Circuitos Integrados
-ComponentDesignItemID13=TPS7A4533KTTR
-ComponentSymbolReference13=TPS7A4533KTTR
-ComponentUpdate13=1
-ComponentIsDeviceSheet13=0
-ComponentLibIdentifierKind14=Library Name And Type
-ComponentLibraryIdentifier14=MemLib.DbLib/Circuitos Integrados
-ComponentDesignItemID14=TUSB8042ARGCT
-ComponentSymbolReference14=TUSB8042ARGCT
-ComponentUpdate14=1
-ComponentIsDeviceSheet14=0
-ComponentLibIdentifierKind15=Library Name And Type
-ComponentLibraryIdentifier15=MemLib.DbLib/Conectores
-ComponentDesignItemID15=12402012E212A
-ComponentSymbolReference15=12402012E212A
-ComponentUpdate15=1
-ComponentIsDeviceSheet15=0
-ComponentLibIdentifierKind16=Library Name And Type
-ComponentLibraryIdentifier16=MemLib.DbLib/Conectores
-ComponentDesignItemID16=2338792-1
-ComponentSymbolReference16=2338792-1
-ComponentUpdate16=1
-ComponentIsDeviceSheet16=0
-ComponentLibIdentifierKind17=Library Name And Type
-ComponentLibraryIdentifier17=MemLib.DbLib/Conectores
-ComponentDesignItemID17=USB1135-15-9-L-B
-ComponentSymbolReference17=USB1135-15-9-L-B
-ComponentUpdate17=1
-ComponentIsDeviceSheet17=0
-ComponentLibIdentifierKind18=Library Name And Type
-ComponentLibraryIdentifier18=MemLib.DbLib/Cristais Osciladores
-ComponentDesignItemID18=ECS-240-20-30B-TR
-ComponentSymbolReference18=ECS-240-20-30B-TR
-ComponentUpdate18=1
-ComponentIsDeviceSheet18=0
-ComponentLibIdentifierKind19=Library Name And Type
-ComponentLibraryIdentifier19=MemLib.DbLib/Diodos TVS
-ComponentDesignItemID19=ESD204DQAR
-ComponentSymbolReference19=ESD204DQAR
-ComponentUpdate19=1
-ComponentIsDeviceSheet19=0
-ComponentLibIdentifierKind20=Library Name And Type
-ComponentLibraryIdentifier20=MemLib.DbLib/Diodos TVS
-ComponentDesignItemID20=TPD2EUSB30DRTR
-ComponentSymbolReference20=TPD2EUSB30DRTR
-ComponentUpdate20=1
-ComponentIsDeviceSheet20=0
-ComponentLibIdentifierKind21=Library Name And Type
-ComponentLibraryIdentifier21=MemLib.DbLib/Ferrite Bead
-ComponentDesignItemID21=BLM18KG221SH1D
-ComponentSymbolReference21=FerriteBead
-ComponentUpdate21=1
-ComponentIsDeviceSheet21=0
-ComponentLibIdentifierKind22=Library Name And Type
-ComponentLibraryIdentifier22=MemLib.DbLib/Furos
-ComponentDesignItemID22=FURO_M2
-ComponentSymbolReference22=Furo
-ComponentUpdate22=1
-ComponentIsDeviceSheet22=0
-ComponentLibIdentifierKind23=Library Name And Type
-ComponentLibraryIdentifier23=MemLib.DbLib/MOSFETs
-ComponentDesignItemID23=IRLML2244TRPBF
-ComponentSymbolReference23=PowerMOSFET-P
-ComponentUpdate23=1
-ComponentIsDeviceSheet23=0
-ComponentLibIdentifierKind24=Library Name And Type
-ComponentLibraryIdentifier24=MemLib.DbLib/Resistores
-ComponentDesignItemID24=AC0402FR-071K87L
-ComponentSymbolReference24=Resistor
-ComponentUpdate24=1
-ComponentIsDeviceSheet24=0
-ComponentLibIdentifierKind25=Library Name And Type
-ComponentLibraryIdentifier25=MemLib.DbLib/Resistores
-ComponentDesignItemID25=AC0402FR-0790K9L
-ComponentSymbolReference25=Resistor
-ComponentUpdate25=1
-ComponentIsDeviceSheet25=0
-ComponentLibIdentifierKind26=Library Name And Type
-ComponentLibraryIdentifier26=MemLib.DbLib/Resistores
-ComponentDesignItemID26=AC0402FR-1315KL
-ComponentSymbolReference26=Resistor
-ComponentUpdate26=1
-ComponentIsDeviceSheet26=0
-ComponentLibIdentifierKind27=Library Name And Type
-ComponentLibraryIdentifier27=MemLib.DbLib/Resistores
-ComponentDesignItemID27=AC0402JR-7W1KL
-ComponentSymbolReference27=Resistor
-ComponentUpdate27=1
-ComponentIsDeviceSheet27=0
-ComponentLibIdentifierKind28=Library Name And Type
-ComponentLibraryIdentifier28=MemLib.DbLib/Resistores
-ComponentDesignItemID28=AF0402FR-07200KL
-ComponentSymbolReference28=Resistor
-ComponentUpdate28=1
-ComponentIsDeviceSheet28=0
-ComponentLibIdentifierKind29=Library Name And Type
-ComponentLibraryIdentifier29=MemLib.DbLib/Resistores
-ComponentDesignItemID29=CRCW04021M00FKEE
-ComponentSymbolReference29=Resistor
-ComponentUpdate29=1
-ComponentIsDeviceSheet29=0
-ComponentLibIdentifierKind30=Library Name And Type
-ComponentLibraryIdentifier30=MemLib.DbLib/Resistores
-ComponentDesignItemID30=ERA-2AEB2552X
-ComponentSymbolReference30=Resistor
-ComponentUpdate30=1
-ComponentIsDeviceSheet30=0
-ComponentLibIdentifierKind31=Library Name And Type
-ComponentLibraryIdentifier31=MemLib.DbLib/Resistores
-ComponentDesignItemID31=RC0402FR-0735KL
-ComponentSymbolReference31=Resistor
-ComponentUpdate31=1
-ComponentIsDeviceSheet31=0
-ComponentLibIdentifierKind32=Library Name And Type
-ComponentLibraryIdentifier32=MemLib.DbLib/Resistores
-ComponentDesignItemID32=RC0402FR-07887KL
-ComponentSymbolReference32=Resistor
-ComponentUpdate32=1
-ComponentIsDeviceSheet32=0
-ComponentLibIdentifierKind33=Library Name And Type
-ComponentLibraryIdentifier33=MemLib.DbLib/Resistores
-ComponentDesignItemID33=RC0402FR-079K53L
-ComponentSymbolReference33=Resistor
-ComponentUpdate33=1
-ComponentIsDeviceSheet33=0
-ComponentLibIdentifierKind34=Library Name And Type
-ComponentLibraryIdentifier34=MemLib.DbLib/Resistores
-ComponentDesignItemID34=RC0402JR-071ML
-ComponentSymbolReference34=Resistor
-ComponentUpdate34=1
-ComponentIsDeviceSheet34=0
-ComponentLibIdentifierKind35=Library Name And Type
-ComponentLibraryIdentifier35=MemLib.DbLib/Resistores
-ComponentDesignItemID35=RC0402JR-7W4K7L
-ComponentSymbolReference35=Resistor
-ComponentUpdate35=1
-ComponentIsDeviceSheet35=0
-ComponentLibIdentifierKind36=Library Name And Type
-ComponentLibraryIdentifier36=MemLib.DbLib/Resistores
-ComponentDesignItemID36=RT0402BRD0744K8L
-ComponentSymbolReference36=Resistor
-ComponentUpdate36=1
-ComponentIsDeviceSheet36=0
-ComponentLibIdentifierKind37=Library Name And Type
-ComponentLibraryIdentifier37=MemLib.DbLib/Resistores
-ComponentDesignItemID37=RT0402BRD074K99L
-ComponentSymbolReference37=Resistor
-ComponentUpdate37=1
-ComponentIsDeviceSheet37=0
-ComponentLibIdentifierKind38=Library Name And Type
-ComponentLibraryIdentifier38=MemLib.DbLib/Resistores
-ComponentDesignItemID38=RT0402DRE0719K1L
-ComponentSymbolReference38=Resistor
-ComponentUpdate38=1
-ComponentIsDeviceSheet38=0
-ComponentLibIdentifierKind39=Library Name And Type
-ComponentLibraryIdentifier39=MemLib.DbLib/Resistores
-ComponentDesignItemID39=RT0402FRE0718KL
-ComponentSymbolReference39=Resistor
-ComponentUpdate39=1
-ComponentIsDeviceSheet39=0
-ComponentLibIdentifierKind40=Library Name And Type
-ComponentLibraryIdentifier40=MemLib.DbLib/Resistores
-ComponentDesignItemID40=RT0402FRE1310KL
-ComponentSymbolReference40=Resistor
-ComponentUpdate40=1
-ComponentIsDeviceSheet40=0
 FullReplace=1
 UpdateDesignatorLock=1
 UpdatePartIDLock=1
@@ -1660,152 +1405,43 @@ RemoveParameters=0
 AddModels=1
 RemoveModels=1
 UpdateCurrentModels=1
-ParameterName0=Availability
+ParameterName0=Comment
 ParameterUpdate0=1
-ParameterName1=Bidirecional/Unidirecional
+ParameterName1=Component Kind
 ParameterUpdate1=1
-ParameterName2=Breakdown Voltage
+ParameterName2=Description
 ParameterUpdate2=1
-ParameterName3=Canal
+ParameterName3=Library Reference
 ParameterUpdate3=1
-ParameterName4=Cap de Carga
+ParameterName4=Manufacter
 ParameterUpdate4=1
-ParameterName5=Check_prices
+ParameterName5=Montagem
 ParameterUpdate5=1
-ParameterName6=Colunas
+ParameterName6=Nome
 ParameterUpdate6=1
-ParameterName7=Comment
+ParameterName7=Package
 ParameterUpdate7=1
-ParameterName8=Component Kind
+ParameterName8=Part Number
 ParameterUpdate8=1
-ParameterName9=Corrente Max
+ParameterName9=Sub-Tipo
 ParameterUpdate9=1
-ParameterName10=Description
+ParameterName10=Supplier 1
 ParameterUpdate10=1
-ParameterName11=imepdancia
+ParameterName11=Supplier 2
 ParameterUpdate11=1
-ParameterName12=Library Reference
+ParameterName12=Supplier 3
 ParameterUpdate12=1
-ParameterName13=Manufacter
+ParameterName13=Supplier Part Number 1
 ParameterUpdate13=1
-ParameterName14=MF
+ParameterName14=Supplier Part Number 2
 ParameterUpdate14=1
-ParameterName15=Montagem
+ParameterName15=Supplier Part Number 3
 ParameterUpdate15=1
-ParameterName16=MP
-ParameterUpdate16=1
-ParameterName17=Nome
-ParameterUpdate17=1
-ParameterName18=Package
-ParameterUpdate18=1
-ParameterName19=Part Number
-ParameterUpdate19=1
-ParameterName20=Peak Pulse Current
-ParameterUpdate20=1
-ParameterName21=Peak Pulse Power Dissipation
-ParameterUpdate21=1
-ParameterName22=Pinos por coluna
-ParameterUpdate22=1
-ParameterName23=Polarizado/Não polarizado
-ParameterUpdate23=1
-ParameterName24=Potencia
-ParameterUpdate24=1
-ParameterName25=Price
-ParameterUpdate25=1
-ParameterName26=Simbolo
-ParameterUpdate26=1
-ParameterName27=SnapEDA_Link
-ParameterUpdate27=1
-ParameterName28=Sub-Tipo
-ParameterUpdate28=1
-ParameterName29=Supplier 1
-ParameterUpdate29=1
-ParameterName30=Supplier 2
-ParameterUpdate30=1
-ParameterName31=Supplier 3
-ParameterUpdate31=1
-ParameterName32=Supplier Part Number 1
-ParameterUpdate32=1
-ParameterName33=Supplier Part Number 2
-ParameterUpdate33=1
-ParameterName34=Supplier Part Number 3
-ParameterUpdate34=1
-ParameterName35=Tipo
-ParameterUpdate35=1
-ParameterName36=Tolerancia
-ParameterUpdate36=1
-ParameterName37=Total de Pinos
-ParameterUpdate37=1
-ParameterName38=Value
-ParameterUpdate38=1
 ModelTypeGroup0=PCBLIB
 ModelTypeUpdate0=1
 ModelType0=PCBLIB
-ModelName0=0201
+ModelName0=RNH0030A
 ModelUpdate0=1
-ModelType1=PCBLIB
-ModelName1=0402
-ModelUpdate1=1
-ModelType2=PCBLIB
-ModelName2=12402012E212A
-ModelUpdate2=1
-ModelType3=PCBLIB
-ModelName3=2338792-1
-ModelUpdate3=1
-ModelType4=PCBLIB
-ModelName4=DQA0010A
-ModelUpdate4=1
-ModelType5=PCBLIB
-ModelName5=DRT_(R-PDSO-N3)
-ModelUpdate5=1
-ModelType6=PCBLIB
-ModelName6=DRV0006A
-ModelUpdate6=1
-ModelType7=PCBLIB
-ModelName7=ECS-240-20-30B-TR
-ModelUpdate7=1
-ModelType8=PCBLIB
-ModelName8=FB0603
-ModelUpdate8=1
-ModelType9=PCBLIB
-ModelName9=FURO_M2
-ModelUpdate9=1
-ModelType10=PCBLIB
-ModelName10=OSC_ECS-100-20-30B-TR
-ModelUpdate10=1
-ModelType11=PCBLIB
-ModelName11=R0402
-ModelUpdate11=1
-ModelType12=PCBLIB
-ModelName12=RGC0064G
-ModelUpdate12=1
-ModelType13=PCBLIB
-ModelName13=RGW0020A
-ModelUpdate13=1
-ModelType14=PCBLIB
-ModelName14=RNH0030A
-ModelUpdate14=1
-ModelType15=PCBLIB
-ModelName15=R-PSFM-G5
-ModelUpdate15=1
-ModelType16=PCBLIB
-ModelName16=RUX0012A
-ModelUpdate16=1
-ModelType17=PCBLIB
-ModelName17=SOT-23
-ModelUpdate17=1
-ModelType18=PCBLIB
-ModelName18=SOT-23-5
-ModelUpdate18=1
-ModelType19=PCBLIB
-ModelName19=SOT95P280X145-5N
-ModelUpdate19=1
-ModelType20=PCBLIB
-ModelName20=TCJB157M006R0070
-ModelUpdate20=1
-ModelType21=PCBLIB
-ModelName21=USB1135-15-9-L-B
-ModelUpdate21=1
 
 [DatabaseUpdateOptions]
 SelectedOnly=0
