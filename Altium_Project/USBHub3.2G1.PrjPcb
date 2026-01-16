@@ -108,310 +108,314 @@ DocumentPath=SiAnalyzerByKeysight_Output\USBHub3.2G1\ODBTemp\odb\steps\pcb\eda\d
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs for USBHub3.2G1\odb\steps\pcb\layers\board_layer_stack_bottom_overlay\features
+DocumentPath=Project Outputs for USBHub3.2G1\Design Rule Check - USBHub3.html
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs for USBHub3.2G1\odb\steps\pcb\layers\board_layer_stack_bottom_solder\features
+DocumentPath=Project Outputs for USBHub3.2G1\odb\steps\pcb\layers\board_layer_stack_bottom_overlay\features
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs for USBHub3.2G1\odb\steps\pcb\layers\board_layer_stack_top_solder\features
+DocumentPath=Project Outputs for USBHub3.2G1\odb\steps\pcb\layers\board_layer_stack_bottom_solder\features
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs for USBHub3.2G1\odb\steps\pcb\layers\boardshape\features
+DocumentPath=Project Outputs for USBHub3.2G1\odb\steps\pcb\layers\board_layer_stack_top_solder\features
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Project Outputs for USBHub3.2G1\odb\steps\pcb\layers\bottom_layer\features
+DocumentPath=Project Outputs for USBHub3.2G1\odb\steps\pcb\layers\boardshape\features
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Project Outputs for USBHub3.2G1\odb\steps\pcb\layers\bottom_overlay\features
+DocumentPath=Project Outputs for USBHub3.2G1\odb\steps\pcb\layers\bottom_layer\features
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Project Outputs for USBHub3.2G1\odb\steps\pcb\layers\bottom_paste\features
+DocumentPath=Project Outputs for USBHub3.2G1\odb\steps\pcb\layers\bottom_overlay\features
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Project Outputs for USBHub3.2G1\odb\steps\pcb\layers\bottom_solder\features
+DocumentPath=Project Outputs for USBHub3.2G1\odb\steps\pcb\layers\bottom_paste\features
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=Project Outputs for USBHub3.2G1\odb\steps\pcb\layers\bottom_surface_finish\features
+DocumentPath=Project Outputs for USBHub3.2G1\odb\steps\pcb\layers\bottom_solder\features
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=Project Outputs for USBHub3.2G1\odb\steps\pcb\layers\comp_+_bot\features
+DocumentPath=Project Outputs for USBHub3.2G1\odb\steps\pcb\layers\bottom_surface_finish\features
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=Project Outputs for USBHub3.2G1\odb\steps\pcb\layers\comp_+_top\features
+DocumentPath=Project Outputs for USBHub3.2G1\odb\steps\pcb\layers\comp_+_bot\features
 DItemRevisionGUID=
 
 [GeneratedDocument18]
-DocumentPath=Project Outputs for USBHub3.2G1\odb\steps\pcb\layers\dielectric_1\features
+DocumentPath=Project Outputs for USBHub3.2G1\odb\steps\pcb\layers\comp_+_top\features
 DItemRevisionGUID=
 
 [GeneratedDocument19]
-DocumentPath=Project Outputs for USBHub3.2G1\odb\steps\pcb\layers\dielectric_2\features
+DocumentPath=Project Outputs for USBHub3.2G1\odb\steps\pcb\layers\dielectric_1\features
 DItemRevisionGUID=
 
 [GeneratedDocument20]
-DocumentPath=Project Outputs for USBHub3.2G1\odb\steps\pcb\layers\dielectric_3\features
+DocumentPath=Project Outputs for USBHub3.2G1\odb\steps\pcb\layers\dielectric_2\features
 DItemRevisionGUID=
 
 [GeneratedDocument21]
-DocumentPath=Project Outputs for USBHub3.2G1\odb\steps\pcb\layers\dielectric_4\features
+DocumentPath=Project Outputs for USBHub3.2G1\odb\steps\pcb\layers\dielectric_3\features
 DItemRevisionGUID=
 
 [GeneratedDocument22]
-DocumentPath=Project Outputs for USBHub3.2G1\odb\steps\pcb\layers\dielectric_5\features
+DocumentPath=Project Outputs for USBHub3.2G1\odb\steps\pcb\layers\dielectric_4\features
 DItemRevisionGUID=
 
 [GeneratedDocument23]
-DocumentPath=Project Outputs for USBHub3.2G1\odb\steps\pcb\layers\drill_drawing_top_layer-bottom_layer\features
+DocumentPath=Project Outputs for USBHub3.2G1\odb\steps\pcb\layers\dielectric_5\features
 DItemRevisionGUID=
 
 [GeneratedDocument24]
-DocumentPath=Project Outputs for USBHub3.2G1\odb\steps\pcb\layers\drill_guide_top_layer-bottom_layer\features
+DocumentPath=Project Outputs for USBHub3.2G1\odb\steps\pcb\layers\drill_drawing_top_layer-bottom_layer\features
 DItemRevisionGUID=
 
 [GeneratedDocument25]
-DocumentPath=Project Outputs for USBHub3.2G1\odb\steps\pcb\layers\drill_non-plated_bottom_layer-top_layer\features
+DocumentPath=Project Outputs for USBHub3.2G1\odb\steps\pcb\layers\drill_guide_top_layer-bottom_layer\features
 DItemRevisionGUID=
 
 [GeneratedDocument26]
-DocumentPath=Project Outputs for USBHub3.2G1\odb\steps\pcb\layers\drill_plated_bottom_layer-top_layer\features
+DocumentPath=Project Outputs for USBHub3.2G1\odb\steps\pcb\layers\drill_non-plated_bottom_layer-top_layer\features
 DItemRevisionGUID=
 
 [GeneratedDocument27]
-DocumentPath=Project Outputs for USBHub3.2G1\odb\steps\pcb\layers\inner_layer_1\features
+DocumentPath=Project Outputs for USBHub3.2G1\odb\steps\pcb\layers\drill_plated_bottom_layer-top_layer\features
 DItemRevisionGUID=
 
 [GeneratedDocument28]
-DocumentPath=Project Outputs for USBHub3.2G1\odb\steps\pcb\layers\inner_layer_2\features
+DocumentPath=Project Outputs for USBHub3.2G1\odb\steps\pcb\layers\inner_layer_1\features
 DItemRevisionGUID=
 
 [GeneratedDocument29]
-DocumentPath=Project Outputs for USBHub3.2G1\odb\steps\pcb\layers\inner_layer_3\features
+DocumentPath=Project Outputs for USBHub3.2G1\odb\steps\pcb\layers\inner_layer_2\features
 DItemRevisionGUID=
 
 [GeneratedDocument30]
-DocumentPath=Project Outputs for USBHub3.2G1\odb\steps\pcb\layers\inner_layer_4\features
+DocumentPath=Project Outputs for USBHub3.2G1\odb\steps\pcb\layers\inner_layer_3\features
 DItemRevisionGUID=
 
 [GeneratedDocument31]
-DocumentPath=Project Outputs for USBHub3.2G1\odb\steps\pcb\layers\keep-out_layer\features
+DocumentPath=Project Outputs for USBHub3.2G1\odb\steps\pcb\layers\inner_layer_4\features
 DItemRevisionGUID=
 
 [GeneratedDocument32]
-DocumentPath=Project Outputs for USBHub3.2G1\odb\steps\pcb\layers\layer_1\features
+DocumentPath=Project Outputs for USBHub3.2G1\odb\steps\pcb\layers\keep-out_layer\features
 DItemRevisionGUID=
 
 [GeneratedDocument33]
-DocumentPath=Project Outputs for USBHub3.2G1\odb\steps\pcb\layers\mechanical_1\features
+DocumentPath=Project Outputs for USBHub3.2G1\odb\steps\pcb\layers\layer_1\features
 DItemRevisionGUID=
 
 [GeneratedDocument34]
-DocumentPath=Project Outputs for USBHub3.2G1\odb\steps\pcb\layers\mechanical_13\features
+DocumentPath=Project Outputs for USBHub3.2G1\odb\steps\pcb\layers\mechanical_1\features
 DItemRevisionGUID=
 
 [GeneratedDocument35]
-DocumentPath=Project Outputs for USBHub3.2G1\odb\steps\pcb\layers\mechanical_15\features
+DocumentPath=Project Outputs for USBHub3.2G1\odb\steps\pcb\layers\mechanical_13\features
 DItemRevisionGUID=
 
 [GeneratedDocument36]
-DocumentPath=Project Outputs for USBHub3.2G1\odb\steps\pcb\layers\top_3d_body\features
+DocumentPath=Project Outputs for USBHub3.2G1\odb\steps\pcb\layers\mechanical_15\features
 DItemRevisionGUID=
 
 [GeneratedDocument37]
-DocumentPath=Project Outputs for USBHub3.2G1\odb\steps\pcb\layers\top_courtyard\features
+DocumentPath=Project Outputs for USBHub3.2G1\odb\steps\pcb\layers\top_3d_body\features
 DItemRevisionGUID=
 
 [GeneratedDocument38]
-DocumentPath=Project Outputs for USBHub3.2G1\odb\steps\pcb\layers\top_layer\features
+DocumentPath=Project Outputs for USBHub3.2G1\odb\steps\pcb\layers\top_courtyard\features
 DItemRevisionGUID=
 
 [GeneratedDocument39]
-DocumentPath=Project Outputs for USBHub3.2G1\odb\steps\pcb\layers\top_overlay\features
+DocumentPath=Project Outputs for USBHub3.2G1\odb\steps\pcb\layers\top_layer\features
 DItemRevisionGUID=
 
 [GeneratedDocument40]
-DocumentPath=Project Outputs for USBHub3.2G1\odb\steps\pcb\layers\top_paste\features
+DocumentPath=Project Outputs for USBHub3.2G1\odb\steps\pcb\layers\top_overlay\features
 DItemRevisionGUID=
 
 [GeneratedDocument41]
-DocumentPath=Project Outputs for USBHub3.2G1\odb\steps\pcb\layers\top_solder\features
+DocumentPath=Project Outputs for USBHub3.2G1\odb\steps\pcb\layers\top_paste\features
 DItemRevisionGUID=
 
 [GeneratedDocument42]
-DocumentPath=Project Outputs for USBHub3.2G1\odb\steps\pcb\layers\top_surface_finish\features
+DocumentPath=Project Outputs for USBHub3.2G1\odb\steps\pcb\layers\top_solder\features
 DItemRevisionGUID=
 
 [GeneratedDocument43]
-DocumentPath=Project Outputs for USBHub3.2G1\odb\symbols\oblong_th2794x2123.9988x45x4x254\features
+DocumentPath=Project Outputs for USBHub3.2G1\odb\steps\pcb\layers\top_surface_finish\features
 DItemRevisionGUID=
 
 [GeneratedDocument44]
-DocumentPath=Project Outputs for USBHub3.2G1\odb\symbols\oblong_th2923.99974x2123.9988x45x4x254\features
+DocumentPath=Project Outputs for USBHub3.2G1\odb\symbols\oblong_th2794x2123.9988x45x4x254\features
 DItemRevisionGUID=
 
 [GeneratedDocument45]
-DocumentPath=Project Outputs for USBHub3.2G1\odb\symbols\oblong_th3223.99914x2123.9988x45x4x254\features
+DocumentPath=Project Outputs for USBHub3.2G1\odb\symbols\oblong_th2923.99974x2123.9988x45x4x254\features
 DItemRevisionGUID=
 
 [GeneratedDocument46]
-DocumentPath=SiAnalyzerByKeysight_Output\USBHub3.2G1\ODBTemp\odb\steps\pcb\layers\bottom_layer\features
+DocumentPath=Project Outputs for USBHub3.2G1\odb\symbols\oblong_th3223.99914x2123.9988x45x4x254\features
 DItemRevisionGUID=
 
 [GeneratedDocument47]
-DocumentPath=SiAnalyzerByKeysight_Output\USBHub3.2G1\ODBTemp\odb\steps\pcb\layers\bottom_overlay\features
+DocumentPath=SiAnalyzerByKeysight_Output\USBHub3.2G1\ODBTemp\odb\steps\pcb\layers\bottom_layer\features
 DItemRevisionGUID=
 
 [GeneratedDocument48]
-DocumentPath=SiAnalyzerByKeysight_Output\USBHub3.2G1\ODBTemp\odb\steps\pcb\layers\bottom_paste\features
+DocumentPath=SiAnalyzerByKeysight_Output\USBHub3.2G1\ODBTemp\odb\steps\pcb\layers\bottom_overlay\features
 DItemRevisionGUID=
 
 [GeneratedDocument49]
-DocumentPath=SiAnalyzerByKeysight_Output\USBHub3.2G1\ODBTemp\odb\steps\pcb\layers\bottom_solder\features
+DocumentPath=SiAnalyzerByKeysight_Output\USBHub3.2G1\ODBTemp\odb\steps\pcb\layers\bottom_paste\features
 DItemRevisionGUID=
 
 [GeneratedDocument50]
-DocumentPath=SiAnalyzerByKeysight_Output\USBHub3.2G1\ODBTemp\odb\steps\pcb\layers\comp_+_bot\features
+DocumentPath=SiAnalyzerByKeysight_Output\USBHub3.2G1\ODBTemp\odb\steps\pcb\layers\bottom_solder\features
 DItemRevisionGUID=
 
 [GeneratedDocument51]
-DocumentPath=SiAnalyzerByKeysight_Output\USBHub3.2G1\ODBTemp\odb\steps\pcb\layers\comp_+_top\features
+DocumentPath=SiAnalyzerByKeysight_Output\USBHub3.2G1\ODBTemp\odb\steps\pcb\layers\comp_+_bot\features
 DItemRevisionGUID=
 
 [GeneratedDocument52]
-DocumentPath=SiAnalyzerByKeysight_Output\USBHub3.2G1\ODBTemp\odb\steps\pcb\layers\dielectric_1\features
+DocumentPath=SiAnalyzerByKeysight_Output\USBHub3.2G1\ODBTemp\odb\steps\pcb\layers\comp_+_top\features
 DItemRevisionGUID=
 
 [GeneratedDocument53]
-DocumentPath=SiAnalyzerByKeysight_Output\USBHub3.2G1\ODBTemp\odb\steps\pcb\layers\dielectric_2\features
+DocumentPath=SiAnalyzerByKeysight_Output\USBHub3.2G1\ODBTemp\odb\steps\pcb\layers\dielectric_1\features
 DItemRevisionGUID=
 
 [GeneratedDocument54]
-DocumentPath=SiAnalyzerByKeysight_Output\USBHub3.2G1\ODBTemp\odb\steps\pcb\layers\dielectric_3\features
+DocumentPath=SiAnalyzerByKeysight_Output\USBHub3.2G1\ODBTemp\odb\steps\pcb\layers\dielectric_2\features
 DItemRevisionGUID=
 
 [GeneratedDocument55]
-DocumentPath=SiAnalyzerByKeysight_Output\USBHub3.2G1\ODBTemp\odb\steps\pcb\layers\dielectric_4\features
+DocumentPath=SiAnalyzerByKeysight_Output\USBHub3.2G1\ODBTemp\odb\steps\pcb\layers\dielectric_3\features
 DItemRevisionGUID=
 
 [GeneratedDocument56]
-DocumentPath=SiAnalyzerByKeysight_Output\USBHub3.2G1\ODBTemp\odb\steps\pcb\layers\dielectric_5\features
+DocumentPath=SiAnalyzerByKeysight_Output\USBHub3.2G1\ODBTemp\odb\steps\pcb\layers\dielectric_4\features
 DItemRevisionGUID=
 
 [GeneratedDocument57]
-DocumentPath=SiAnalyzerByKeysight_Output\USBHub3.2G1\ODBTemp\odb\steps\pcb\layers\drill_non-plated_bottom_layer-top_layer\features
+DocumentPath=SiAnalyzerByKeysight_Output\USBHub3.2G1\ODBTemp\odb\steps\pcb\layers\dielectric_5\features
 DItemRevisionGUID=
 
 [GeneratedDocument58]
-DocumentPath=SiAnalyzerByKeysight_Output\USBHub3.2G1\ODBTemp\odb\steps\pcb\layers\drill_plated_bottom_layer-top_layer\features
+DocumentPath=SiAnalyzerByKeysight_Output\USBHub3.2G1\ODBTemp\odb\steps\pcb\layers\drill_non-plated_bottom_layer-top_layer\features
 DItemRevisionGUID=
 
 [GeneratedDocument59]
-DocumentPath=SiAnalyzerByKeysight_Output\USBHub3.2G1\ODBTemp\odb\steps\pcb\layers\inner_layer_1\features
+DocumentPath=SiAnalyzerByKeysight_Output\USBHub3.2G1\ODBTemp\odb\steps\pcb\layers\drill_plated_bottom_layer-top_layer\features
 DItemRevisionGUID=
 
 [GeneratedDocument60]
-DocumentPath=SiAnalyzerByKeysight_Output\USBHub3.2G1\ODBTemp\odb\steps\pcb\layers\inner_layer_2\features
+DocumentPath=SiAnalyzerByKeysight_Output\USBHub3.2G1\ODBTemp\odb\steps\pcb\layers\inner_layer_1\features
 DItemRevisionGUID=
 
 [GeneratedDocument61]
-DocumentPath=SiAnalyzerByKeysight_Output\USBHub3.2G1\ODBTemp\odb\steps\pcb\layers\inner_layer_3\features
+DocumentPath=SiAnalyzerByKeysight_Output\USBHub3.2G1\ODBTemp\odb\steps\pcb\layers\inner_layer_2\features
 DItemRevisionGUID=
 
 [GeneratedDocument62]
-DocumentPath=SiAnalyzerByKeysight_Output\USBHub3.2G1\ODBTemp\odb\steps\pcb\layers\inner_layer_4\features
+DocumentPath=SiAnalyzerByKeysight_Output\USBHub3.2G1\ODBTemp\odb\steps\pcb\layers\inner_layer_3\features
 DItemRevisionGUID=
 
 [GeneratedDocument63]
-DocumentPath=SiAnalyzerByKeysight_Output\USBHub3.2G1\ODBTemp\odb\steps\pcb\layers\top_layer\features
+DocumentPath=SiAnalyzerByKeysight_Output\USBHub3.2G1\ODBTemp\odb\steps\pcb\layers\inner_layer_4\features
 DItemRevisionGUID=
 
 [GeneratedDocument64]
-DocumentPath=SiAnalyzerByKeysight_Output\USBHub3.2G1\ODBTemp\odb\steps\pcb\layers\top_overlay\features
+DocumentPath=SiAnalyzerByKeysight_Output\USBHub3.2G1\ODBTemp\odb\steps\pcb\layers\top_layer\features
 DItemRevisionGUID=
 
 [GeneratedDocument65]
-DocumentPath=SiAnalyzerByKeysight_Output\USBHub3.2G1\ODBTemp\odb\steps\pcb\layers\top_paste\features
+DocumentPath=SiAnalyzerByKeysight_Output\USBHub3.2G1\ODBTemp\odb\steps\pcb\layers\top_overlay\features
 DItemRevisionGUID=
 
 [GeneratedDocument66]
-DocumentPath=SiAnalyzerByKeysight_Output\USBHub3.2G1\ODBTemp\odb\steps\pcb\layers\top_solder\features
+DocumentPath=SiAnalyzerByKeysight_Output\USBHub3.2G1\ODBTemp\odb\steps\pcb\layers\top_paste\features
 DItemRevisionGUID=
 
 [GeneratedDocument67]
-DocumentPath=SiAnalyzerByKeysight_Output\USBHub3.2G1\ODBTemp\odb\symbols\oblong_th115.1181x83.622x45x4x10\features
+DocumentPath=SiAnalyzerByKeysight_Output\USBHub3.2G1\ODBTemp\odb\steps\pcb\layers\top_solder\features
 DItemRevisionGUID=
 
 [GeneratedDocument68]
-DocumentPath=SiAnalyzerByKeysight_Output\USBHub3.2G1\ODBTemp\odb\symbols\oblong_th126.9291x83.622x45x4x10\features
+DocumentPath=SiAnalyzerByKeysight_Output\USBHub3.2G1\ODBTemp\odb\symbols\oblong_th115.1181x83.622x45x4x10\features
 DItemRevisionGUID=
 
 [GeneratedDocument69]
-DocumentPath=Project Outputs for USBHub3.2G1\odb\matrix\matrix
+DocumentPath=SiAnalyzerByKeysight_Output\USBHub3.2G1\ODBTemp\odb\symbols\oblong_th126.9291x83.622x45x4x10\features
 DItemRevisionGUID=
 
 [GeneratedDocument70]
-DocumentPath=SiAnalyzerByKeysight_Output\USBHub3.2G1\ODBTemp\odb\matrix\matrix
+DocumentPath=Project Outputs for USBHub3.2G1\odb\matrix\matrix
 DItemRevisionGUID=
 
 [GeneratedDocument71]
-DocumentPath=Project Outputs for USBHub3.2G1\odb\steps\pcb\netlists\cadnet\netlist
+DocumentPath=SiAnalyzerByKeysight_Output\USBHub3.2G1\ODBTemp\odb\matrix\matrix
 DItemRevisionGUID=
 
 [GeneratedDocument72]
-DocumentPath=SiAnalyzerByKeysight_Output\USBHub3.2G1\ODBTemp\odb\steps\pcb\netlists\cadnet\netlist
+DocumentPath=Project Outputs for USBHub3.2G1\odb\steps\pcb\netlists\cadnet\netlist
 DItemRevisionGUID=
 
 [GeneratedDocument73]
-DocumentPath=Project Outputs for USBHub3.2G1\odb\steps\pcb\profile
+DocumentPath=SiAnalyzerByKeysight_Output\USBHub3.2G1\ODBTemp\odb\steps\pcb\netlists\cadnet\netlist
 DItemRevisionGUID=
 
 [GeneratedDocument74]
-DocumentPath=SiAnalyzerByKeysight_Output\USBHub3.2G1\ODBTemp\odb\steps\pcb\profile
+DocumentPath=Project Outputs for USBHub3.2G1\odb\steps\pcb\profile
 DItemRevisionGUID=
 
 [GeneratedDocument75]
-DocumentPath=Project Outputs for USBHub3.2G1\odb\steps\pcb\stephdr
+DocumentPath=SiAnalyzerByKeysight_Output\USBHub3.2G1\ODBTemp\odb\steps\pcb\profile
 DItemRevisionGUID=
 
 [GeneratedDocument76]
-DocumentPath=SiAnalyzerByKeysight_Output\USBHub3.2G1\ODBTemp\odb\steps\pcb\stephdr
+DocumentPath=Project Outputs for USBHub3.2G1\odb\steps\pcb\stephdr
 DItemRevisionGUID=
 
 [GeneratedDocument77]
-DocumentPath=Project Outputs for USBHub3.2G1\odb\steps\pcb\layers\drill_non-plated_bottom_layer-top_layer\tools
+DocumentPath=SiAnalyzerByKeysight_Output\USBHub3.2G1\ODBTemp\odb\steps\pcb\stephdr
 DItemRevisionGUID=
 
 [GeneratedDocument78]
-DocumentPath=Project Outputs for USBHub3.2G1\odb\steps\pcb\layers\drill_plated_bottom_layer-top_layer\tools
+DocumentPath=Project Outputs for USBHub3.2G1\odb\steps\pcb\layers\drill_non-plated_bottom_layer-top_layer\tools
 DItemRevisionGUID=
 
 [GeneratedDocument79]
-DocumentPath=SiAnalyzerByKeysight_Output\USBHub3.2G1\ODBTemp\odb\steps\pcb\layers\drill_non-plated_bottom_layer-top_layer\tools
+DocumentPath=Project Outputs for USBHub3.2G1\odb\steps\pcb\layers\drill_plated_bottom_layer-top_layer\tools
 DItemRevisionGUID=
 
 [GeneratedDocument80]
-DocumentPath=SiAnalyzerByKeysight_Output\USBHub3.2G1\ODBTemp\odb\steps\pcb\layers\drill_plated_bottom_layer-top_layer\tools
+DocumentPath=SiAnalyzerByKeysight_Output\USBHub3.2G1\ODBTemp\odb\steps\pcb\layers\drill_non-plated_bottom_layer-top_layer\tools
 DItemRevisionGUID=
 
 [GeneratedDocument81]
-DocumentPath=Project Outputs for USBHub3.2G1\USBHub3.2G1.REP
+DocumentPath=SiAnalyzerByKeysight_Output\USBHub3.2G1\ODBTemp\odb\steps\pcb\layers\drill_plated_bottom_layer-top_layer\tools
 DItemRevisionGUID=
 
 [GeneratedDocument82]
-DocumentPath=SiAnalyzerByKeysight_Output\USBHub3.2G1\ODBTemp\USBHub3.2G1.REP
+DocumentPath=Project Outputs for USBHub3.2G1\USBHub3.2G1.REP
 DItemRevisionGUID=
 
 [GeneratedDocument83]
+DocumentPath=SiAnalyzerByKeysight_Output\USBHub3.2G1\ODBTemp\USBHub3.2G1.REP
+DItemRevisionGUID=
+
+[GeneratedDocument84]
 DocumentPath=SiAnalyzerByKeysight_Output\USBHub3.2G1\ODBTemp\odb\user\USBHub3.2G1.RUL
 DItemRevisionGUID=
 
@@ -792,6 +796,11 @@ OutputName9=Report Single Pin Nets
 OutputDocumentPath9=
 OutputVariantName9=[No Variations]
 OutputDefault9=0
+OutputType10=BOM_ReportManufacturing
+OutputName10=Manufacturing Data
+OutputDocumentPath10=
+OutputVariantName10=[No Variations]
+OutputDefault10=0
 
 [OutputGroup7]
 Name=Other Outputs
@@ -1086,6 +1095,8 @@ Type156=1
 Type157=1
 Type158=1
 Type159=1
+Type160=1
+Type161=1
 
 [Difference Levels]
 Type1=1
@@ -1175,6 +1186,7 @@ Type84=1
 Type85=1
 Type86=1
 Type87=1
+Type88=1
 
 [Electrical Rules Check]
 Type1=1
@@ -1340,6 +1352,8 @@ Type160=0
 Type161=0
 Type162=1
 Type163=1
+Type164=1
+Type165=2
 
 [ERC Connection Matrix]
 L1=NNNNNNNNNNNWNNNWW
