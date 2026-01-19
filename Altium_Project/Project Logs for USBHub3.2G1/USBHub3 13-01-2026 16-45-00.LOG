@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=UPS_RX_1_CONNECTOR_N Pin=D11-4
+Removed Pin From Net: NetName=UPS_RX_1_CONNECTOR_P Pin=D11-5
+Removed Pin From Net: NetName=UPS_RX_1_CONNECTOR_P Pin=D11-6
+Removed Pin From Net: NetName=UPS_RX_1_CONNECTOR_N Pin=D11-7
+Added Pin To Net: NetName=UPS_RX_1_CONNECTOR_P Pin=D11-4
+Added Pin To Net: NetName=UPS_RX_1_CONNECTOR_N Pin=D11-5
+Added Pin To Net: NetName=UPS_RX_1_CONNECTOR_N Pin=D11-6
+Added Pin To Net: NetName=UPS_RX_1_CONNECTOR_P Pin=D11-7

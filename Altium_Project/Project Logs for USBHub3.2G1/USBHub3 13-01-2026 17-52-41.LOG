@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=UPS_RX_1_CONNECTOR_N Pin=U11-14
+Removed Pin From Net: NetName=UPS_RX_1_CONNECTOR_P Pin=U11-15
+Removed Pin From Net: NetName=UPS_TX_1_CONNECTOR_OUT_N Pin=U11-16
+Removed Pin From Net: NetName=UPS_TX_1_CONNECTOR_OUT_P Pin=U11-17
+Added Pin To Net: NetName=UPS_RX_1_CONNECTOR_P Pin=U11-14
+Added Pin To Net: NetName=UPS_RX_1_CONNECTOR_N Pin=U11-15
+Added Pin To Net: NetName=UPS_TX_1_CONNECTOR_OUT_P Pin=U11-16
+Added Pin To Net: NetName=UPS_TX_1_CONNECTOR_OUT_N Pin=U11-17
+Change Differential Pair Positive Net Name : Old Net Name=UPS_RX_1_CONNECTOR_P New Net Name=UPS_RX_1_CONNECTOR_P
+Change Differential Pair Positive Net Name : Old Net Name=UPS_RX_2_CONNECTOR_P New Net Name=UPS_RX_2_CONNECTOR_P
+Change Differential Pair Negative Net Name : Old Net Name=UPS_RX_1_CONNECTOR_N New Net Name=UPS_RX_1_CONNECTOR_N
+Change Differential Pair Negative Net Name : Old Net Name=UPS_RX_2_CONNECTOR_N New Net Name=UPS_RX_2_CONNECTOR_N

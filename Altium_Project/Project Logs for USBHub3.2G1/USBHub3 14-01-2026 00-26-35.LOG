@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=3V3 Pin=C65-1
+Removed Pin From Net: NetName=GND Pin=C65-2
+Removed Pin From Net: NetName=LimitSignal Pin=R21-2
+Removed Pin From Net: NetName=GND Pin=R23-1
+Removed Pin From Net: NetName=GND Pin=U5-3
+Removed Pin From Net: NetName=3V3 Pin=U5-5
+Removed Member From Class: ClassName=Schematic Member=C65
+Removed Member From Class: ClassName=Schematic Member=R21
+Removed Member From Class: ClassName=Schematic Member=R23
+Removed Member From Class: ClassName=Schematic Member=U5

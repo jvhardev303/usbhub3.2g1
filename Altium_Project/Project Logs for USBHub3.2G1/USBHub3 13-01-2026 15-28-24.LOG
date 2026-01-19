@@ -1,0 +1,28 @@
+Change Component DesignItemId : Designator=1 Old DesignItemId=FURO_M2 New DesignItemId=FURO_M3_DIN7985
+Change Component DesignItemId : Designator=2 Old DesignItemId=FURO_M2 New DesignItemId=FURO_M3_DIN7985
+Change Component DesignItemId : Designator=3 Old DesignItemId=FURO_M2 New DesignItemId=FURO_M3_DIN7985
+Change Component DesignItemId : Designator=4 Old DesignItemId=FURO_M2 New DesignItemId=FURO_M3_DIN7985
+Change Component Footprint: Designator=1 Old Footprint=FURO_M2 New Footprint=FURO_M3_DIN7985
+Change Component Footprint: Designator=2 Old Footprint=FURO_M2 New Footprint=FURO_M3_DIN7985
+Change Component Footprint: Designator=3 Old Footprint=FURO_M2 New Footprint=FURO_M3_DIN7985
+Change Component Footprint: Designator=4 Old Footprint=FURO_M2 New Footprint=FURO_M3_DIN7985
+Change Component Description : Designator=1 Old Description=Furo para parafuso M2 New Description=Furo para parafuso M3
+Change Component Description : Designator=2 Old Description=Furo para parafuso M2 New Description=Furo para parafuso M3
+Change Component Description : Designator=3 Old Description=Furo para parafuso M2 New Description=Furo para parafuso M3
+Change Component Description : Designator=4 Old Description=Furo para parafuso M2 New Description=Furo para parafuso M3
+Change component parameters: Designator = "1" ("1"); Footprint = "FURO_M2"; UniqueID = "\JUUNTAME" ("\JUUNTAME")
+Change component parameters (AddParameter): Name = "Nome"; Value = "FURO_M3_DIN7985"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "FURO_M3_DIN7985"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Sub-Tipo"; Value = "Furo"; VariantName = "[No Variations]"
+Change component parameters: Designator = "2" ("2"); Footprint = "FURO_M2"; UniqueID = "\DDCWOXZJ" ("\DDCWOXZJ")
+Change component parameters (AddParameter): Name = "Nome"; Value = "FURO_M3_DIN7985"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "FURO_M3_DIN7985"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Sub-Tipo"; Value = "Furo"; VariantName = "[No Variations]"
+Change component parameters: Designator = "3" ("3"); Footprint = "FURO_M2"; UniqueID = "\NXGQMUQA" ("\NXGQMUQA")
+Change component parameters (AddParameter): Name = "Nome"; Value = "FURO_M3_DIN7985"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "FURO_M3_DIN7985"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Sub-Tipo"; Value = "Furo"; VariantName = "[No Variations]"
+Change component parameters: Designator = "4" ("4"); Footprint = "FURO_M2"; UniqueID = "\OCRJQAIF" ("\OCRJQAIF")
+Change component parameters (AddParameter): Name = "Nome"; Value = "FURO_M3_DIN7985"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "FURO_M3_DIN7985"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Sub-Tipo"; Value = "Furo"; VariantName = "[No Variations]"

@@ -1,0 +1,29 @@
+Removed Pin From Net: NetName=NetC20_1 Pin=C20-1
+Removed Pin From Net: NetName=GND Pin=C20-2
+Removed Pin From Net: NetName=NetC20_1 Pin=C21-1
+Removed Pin From Net: NetName=GND Pin=C21-2
+Removed Pin From Net: NetName=NetC20_1 Pin=C22-1
+Removed Pin From Net: NetName=GND Pin=C22-2
+Removed Pin From Net: NetName=NetC20_1 Pin=C23-1
+Removed Pin From Net: NetName=GND Pin=C23-2
+Removed Pin From Net: NetName=NetC20_1 Pin=C24-1
+Removed Pin From Net: NetName=GND Pin=C24-2
+Removed Pin From Net: NetName=NetC20_1 Pin=C25-1
+Removed Pin From Net: NetName=GND Pin=C25-2
+Removed Pin From Net: NetName=NetC20_1 Pin=C27-1
+Removed Pin From Net: NetName=GND Pin=C27-2
+Removed Pin From Net: NetName=NetC20_1 Pin=C28-1
+Removed Pin From Net: NetName=GND Pin=C28-2
+Removed Pin From Net: NetName=NetC20_1 Pin=C29-1
+Removed Pin From Net: NetName=GND Pin=C29-2
+Removed Member From Class: ClassName=Schematic Member=C20
+Removed Member From Class: ClassName=Schematic Member=C21
+Removed Member From Class: ClassName=Schematic Member=C22
+Removed Member From Class: ClassName=Schematic Member=C23
+Removed Member From Class: ClassName=Schematic Member=C24
+Removed Member From Class: ClassName=Schematic Member=C25
+Removed Member From Class: ClassName=Schematic Member=C27
+Removed Member From Class: ClassName=Schematic Member=C28
+Removed Member From Class: ClassName=Schematic Member=C29
+Change Net Name : Old Net Name=NetC20_1 New Net Name=NetC30_1
+Change Net Color : Old Net Color=RGB(255, 110, 110) New Net Color=Default

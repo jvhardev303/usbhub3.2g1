@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=UPS_TX_1_CONNECTOR_IN_P Pin=D11-1
+Removed Pin From Net: NetName=UPS_TX_1_CONNECTOR_IN_N Pin=D11-2
+Removed Pin From Net: NetName=UPS_TX_1_CONNECTOR_IN_N Pin=D11-9
+Removed Pin From Net: NetName=UPS_TX_1_CONNECTOR_IN_P Pin=D11-10
+Removed Pin From Net: NetName=UPS_TX_2_CONNECTOR_IN_N Pin=D12-1
+Removed Pin From Net: NetName=UPS_TX_2_CONNECTOR_IN_P Pin=D12-2
+Removed Pin From Net: NetName=UPS_TX_2_CONNECTOR_IN_P Pin=D12-9
+Removed Pin From Net: NetName=UPS_TX_2_CONNECTOR_IN_N Pin=D12-10
+Added Pin To Net: NetName=UPS_TX_2_CONNECTOR_IN_P Pin=D11-1
+Added Pin To Net: NetName=UPS_TX_2_CONNECTOR_IN_N Pin=D11-2
+Added Pin To Net: NetName=UPS_TX_2_CONNECTOR_IN_N Pin=D11-9
+Added Pin To Net: NetName=UPS_TX_2_CONNECTOR_IN_P Pin=D11-10
+Added Pin To Net: NetName=UPS_TX_1_CONNECTOR_IN_P Pin=D12-1
+Added Pin To Net: NetName=UPS_TX_1_CONNECTOR_IN_N Pin=D12-2
+Added Pin To Net: NetName=UPS_TX_1_CONNECTOR_IN_N Pin=D12-9
+Added Pin To Net: NetName=UPS_TX_1_CONNECTOR_IN_P Pin=D12-10

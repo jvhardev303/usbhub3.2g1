@@ -1,0 +1,4 @@
+Change Net Name : Old Net Name=NetC73_2 New Net Name=DN3_TXOUT_N
+Change Net Color : Old Net Color=RGB(125, 0, 137) New Net Color=Default
+Added Differential Pair: Name=DN2_TXOUT
+Added Differential Pair: Name=DN3_TXOUT

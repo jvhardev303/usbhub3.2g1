@@ -1,0 +1,204 @@
+Protel Design System Design Rule Check
+PCB File : C:\ProjectsOpenSource\USBHub3.2G1\Altium_Project\USBHub3.2G1.PcbDoc
+Date     : 18/01/2026
+Time     : 17:37:39
+
+Processing Rule : Clearance Constraint (Gap=0.635mm) ((InDifferentialPairClass('USB_2.0') or InDifferentialPairClass('USB_3.0')) and (WithinRoom('a') or WithinRoom('b') or WithinRoom('c') or WithinRoom('d') or WithinRoom('e') or WithinRoom('f') or WithinRoom('g') or WithinRoom('h') or WithinRoom('i') or WithinRoom('j') or WithinRoom('k') or WithinRoom('l') or WithinRoom('m') or WithinRoom('n') or WithinRoom('o') or WithinRoom('p') or WithinRoom('q') or WithinRoom('r') or WithinRoom('s') or WithinRoom('t'))),((InDifferentialPairClass('USB_2.0') or InDifferentialPairClass('USB_3.0')) and (WithinRoom('a') or WithinRoom('b') or WithinRoom('c') or WithinRoom('d') or WithinRoom('e') or WithinRoom('f') or WithinRoom('g') or WithinRoom('h') or WithinRoom('i') or WithinRoom('j') or WithinRoom('k') or WithinRoom('l') or WithinRoom('m') or WithinRoom('n') or WithinRoom('o') or WithinRoom('p') or WithinRoom('q') or WithinRoom('r') or WithinRoom('s') or WithinRoom('t')))
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.108mm) ((InDifferentialPairClass('USB_3.0') or InDifferentialPairClass('USB_2.0')) and (WithinRoom('a') or WithinRoom('b') or WithinRoom('c') or WithinRoom('d') or WithinRoom('e') or WithinRoom('f') or WithinRoom('g') or WithinRoom('h') or WithinRoom('i') or WithinRoom('j') or WithinRoom('k') or WithinRoom('l') or WithinRoom('m') or WithinRoom('n') or WithinRoom('o') or WithinRoom('p') or WithinRoom('q') or WithinRoom('r') or WithinRoom('s') or WithinRoom('t'))),(All and not(InDifferentialPairClass('USB_3.0') or InDifferentialPairClass('USB_2.0')) and not(WithinRoom('a') or WithinRoom('b') or WithinRoom('c') or WithinRoom('d') or WithinRoom('e') or WithinRoom('f') or WithinRoom('g') or WithinRoom('h') or WithinRoom('i') or WithinRoom('j') or WithinRoom('k') or WithinRoom('l') or WithinRoom('m') or WithinRoom('n') or WithinRoom('o') or WithinRoom('p') or WithinRoom('q') or WithinRoom('r') or WithinRoom('s') or WithinRoom('t')))
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.254mm) (InAnyDifferentialPair),(InAnyDifferentialPair)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.254mm) (All and not(InDifferentialPairClass('USB_3.0') or InDifferentialPairClass('USB_2.0'))),(All and not(InDifferentialPairClass('USB_3.0') or InDifferentialPairClass('USB_2.0')))
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.635mm) (InDifferentialPairClass('USB_3.0') or InDifferentialPairClass('USB_2.0') and not(WithinRoom('a') or WithinRoom('b') or WithinRoom('c') or WithinRoom('d') or WithinRoom('e') or WithinRoom('f') or WithinRoom('g') or WithinRoom('h') or WithinRoom('i') or WithinRoom('j') or WithinRoom('k') or WithinRoom('l') or WithinRoom('m') or WithinRoom('n') or WithinRoom('o') or WithinRoom('p') or WithinRoom('q') or WithinRoom('r') or WithinRoom('s') or WithinRoom('t'))),(All and not(InDifferentialPairClass('USB_3.0') or InDifferentialPairClass('USB_2.0')) and not(WithinRoom('a') or WithinRoom('b') or WithinRoom('c') or WithinRoom('d') or WithinRoom('e') or WithinRoom('f') or WithinRoom('g') or WithinRoom('h') or WithinRoom('i') or WithinRoom('j') or WithinRoom('k') or WithinRoom('l') or WithinRoom('m') or WithinRoom('n') or WithinRoom('o') or WithinRoom('p') or WithinRoom('q') or WithinRoom('r') or WithinRoom('s') or WithinRoom('t')))
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.635mm) (InDifferentialPairClass('USB_2.0') or InDifferentialPairClass('USB_3.0') and not(WithinRoom('a') or WithinRoom('b') or WithinRoom('c') or WithinRoom('d') or WithinRoom('e') or WithinRoom('f') or WithinRoom('g') or WithinRoom('h') or WithinRoom('i') or WithinRoom('j') or WithinRoom('k') or WithinRoom('l') or WithinRoom('m') or WithinRoom('n') or WithinRoom('o') or WithinRoom('p') or WithinRoom('q') or WithinRoom('r') or WithinRoom('s') or WithinRoom('t'))),(InDifferentialPairClass('USB_2.0') or InDifferentialPairClass('USB_3.0') and not(WithinRoom('a') or WithinRoom('b') or WithinRoom('c') or WithinRoom('d') or WithinRoom('e') or WithinRoom('f') or WithinRoom('g') or WithinRoom('h') or WithinRoom('i') or WithinRoom('j') or WithinRoom('k') or WithinRoom('l') or WithinRoom('m') or WithinRoom('n') or WithinRoom('o') or WithinRoom('p') or WithinRoom('q') or WithinRoom('r') or WithinRoom('s') or WithinRoom('t')))
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.102mm) (Max=2.54mm) (Preferred=0.254mm) (All)
+Rule Violations :0
+
+Processing Rule : Routing Topology Rule(Topology=Shortest) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Minimum Annular Ring (Minimum=0.2mm) (IsPad and not(InPadClass('PadVia')))
+Rule Violations :0
+
+Processing Rule : Minimum Annular Ring (Minimum=0.05mm) (IsVia or InPadClass('PadVia'))
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=0.3mm) (Max=100mm) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=0.2mm) (IsVia or InPadClass('PadVia')),(IsVia or InPadClass('PadVia'))
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=0.45mm) (IsPad and not(InPadClass('PadVia'))),(IsPad and not(InPadClass('PadVia')))
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=0.254mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0.1mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=0.15mm) (IsPad or IsVia),(IsDesignator)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=0.05mm) (IsVia),(All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=0.15mm) (IsDesignator),(All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=0.1mm) (All),(IsVia)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mm) (All)
+Rule Violations :0
+
+Processing Rule : Board Clearance Constraint (Gap=0mm) (All and not(OnBottomSilkscreen or OnTopSilkscreen))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Delay Tolerance=5ps) (InxSignalClass('UPS_USB3.0_TX'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Delay Tolerance=5ps) (InxSignalClass('UPS_USB3.0_RX1_IN'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Delay Tolerance=15ps) (InxSignalClass('UPS_USB2.0'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Delay Tolerance=5ps) (InxSignalClass('UPS_USB3.0_RX2_IN'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Delay Tolerance=5ps) (InxSignalClass('UPS_USB3.0_RX'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Delay Tolerance=5ps) (InxSignalClass('UPS_USB3.0_TX1_IN'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Delay Tolerance=5ps) (InxSignalClass('PORT1_USB3.0_RX'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Delay Tolerance=15ps) (InxSignalClass('PORT4_USB2.0'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Delay Tolerance=5ps) (InxSignalClass('PORT4_USB3.0_RX'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Delay Tolerance=15ps) (InxSignalClass('PORT2_USB2.0'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Delay Tolerance=15ps) (InxSignalClass('PORT1_USB2.0'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Delay Tolerance=5ps) (InxSignalClass('PORT1_USB3.0_TX'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Delay Tolerance=5ps) (InxSignalClass('UPS_USB3.0_TX2_IN'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Delay Tolerance=5ps) (InxSignalClass('PORT3_USB3.0_RX'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Delay Tolerance=5ps) (InxSignalClass('PORT2_USB3.0_RX'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Delay Tolerance=5ps) (InxSignalClass('PORT3_USB3.0_TX'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Delay Tolerance=5ps) (InxSignalClass('PORT2_USB3.0_TX'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Delay Tolerance=5ps) (InxSignalClass('PORT4_USB3.0_TX'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Delay Tolerance=15ps) (InxSignalClass('PORT3_USB2.0'))
+Rule Violations :0
+
+Processing Rule : Room k (Bounding Region = (77.105mm, 76.093mm, 80.293mm, 79.185mm) (False)
+Rule Violations :0
+
+Processing Rule : Room i (Bounding Region = (117.175mm, 74.7mm, 120.819mm, 77.894mm) (False)
+Rule Violations :0
+
+Processing Rule : Room o (Bounding Region = (163.906mm, 79.976mm, 173.822mm, 85.717mm) (False)
+Rule Violations :0
+
+Processing Rule : Room m (Bounding Region = (173.961mm, 71.509mm, 178.024mm, 76.83mm) (False)
+Rule Violations :0
+
+Processing Rule : Room p (Bounding Region = (178.118mm, 69.711mm, 187.268mm, 80.627mm) (False)
+Rule Violations :0
+
+Processing Rule : Room a (Bounding Region = (134.91mm, 73.7mm, 136.734mm, 75.3mm) (False)
+Rule Violations :0
+
+Processing Rule : Room t (Bounding Region = (71.577mm, 67.252mm, 87.109mm, 75.573mm) (False)
+Rule Violations :0
+
+Processing Rule : Room q (Bounding Region = (131.577mm, 67.252mm, 147.109mm, 75.573mm) (False)
+Rule Violations :0
+
+Processing Rule : Room n (Bounding Region = (157.088mm, 59.562mm, 175.838mm, 77.821mm) (False)
+Rule Violations :0
+
+Processing Rule : Room s (Bounding Region = (91.361mm, 67.317mm, 106.893mm, 75.637mm) (False)
+Rule Violations :0
+
+Processing Rule : Room r (Bounding Region = (111.577mm, 67.252mm, 127.109mm, 75.573mm) (False)
+Rule Violations :0
+
+Processing Rule : Room c (Bounding Region = (94.886mm, 74.467mm, 96.71mm, 76.067mm) (False)
+Rule Violations :0
+
+Processing Rule : Room b (Bounding Region = (114.897mm, 73.7mm, 116.721mm, 75.3mm) (False)
+Rule Violations :0
+
+Processing Rule : Room d (Bounding Region = (74.886mm, 74.471mm, 76.71mm, 76.071mm) (False)
+Rule Violations :0
+
+Processing Rule : Room f (Bounding Region = (108.129mm, 70.135mm, 109.605mm, 73.208mm) (False)
+Rule Violations :0
+
+Processing Rule : Room e (Bounding Region = (128.043mm, 70.576mm, 129.519mm, 73.219mm) (False)
+Rule Violations :0
+
+Processing Rule : Room h (Bounding Region = (137.434mm, 74.997mm, 140.333mm, 77.621mm) (False)
+Rule Violations :0
+
+Processing Rule : Room l (Bounding Region = (67.576mm, 70.846mm, 69.998mm, 73.849mm) (False)
+Rule Violations :0
+
+Processing Rule : Room j (Bounding Region = (97.054mm, 76.187mm, 100.319mm, 78.966mm) (False)
+Rule Violations :0
+
+Processing Rule : Room g (Bounding Region = (87.893mm, 70.846mm, 89.806mm, 73.818mm) (False)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
+Rule Violations :0
+
+
+Violations Detected : 0
+Waived Violations : 0
+Time Elapsed        : 00:00:00
