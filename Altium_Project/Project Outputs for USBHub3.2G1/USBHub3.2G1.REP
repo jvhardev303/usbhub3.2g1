@@ -1,122 +1,386 @@
 *************************************************************
-FileName = USBHub3.2G1.PcbDoc
-ODB++ directory structure
+FileName = USBHub3.2G1.GBR
+AutoAperture = True
 *************************************************************
-Generated File : C:\ProjectsOpenSource\USBHub3.2G1\Altium_Project\Project Outputs for USBHub3.2G1\odb\steps\pcb\profile
+Generating : Bottom Paste
+      File : USBHub3.2G1.GBP
 
-Generated File : C:\ProjectsOpenSource\USBHub3.2G1\Altium_Project\Project Outputs for USBHub3.2G1\odb\steps\pcb\stephdr
+    Adding Layer      : Bottom Paste
 
-Generated File : C:\ProjectsOpenSource\USBHub3.2G1\Altium_Project\Project Outputs for USBHub3.2G1\odb\steps\pcb\attrlist
+    Adding Layer      : Bottom - Layer 4
 
-Generated File : C:\ProjectsOpenSource\USBHub3.2G1\Altium_Project\Project Outputs for USBHub3.2G1\odb\steps\pcb\layers\top_surface_finish\features
+    Adding Layer      : Multi-Layer
 
-Generated File : C:\ProjectsOpenSource\USBHub3.2G1\Altium_Project\Project Outputs for USBHub3.2G1\odb\steps\pcb\layers\top_surface_finish\attrlist
 
-Generated File : C:\ProjectsOpenSource\USBHub3.2G1\Altium_Project\Project Outputs for USBHub3.2G1\odb\steps\pcb\layers\dielectric_3\features
+Used DCodes :
+    D19
+    D23
+    D26
+    D28
+    D37
+    D39
+    D40
+    D67
+    D68
+    D69
+    D70
+    D71
+    D72
+    D74
+    D75
+    D76
+    D77
+    D78
+    D79
+*************************************************************
 
-Generated File : C:\ProjectsOpenSource\USBHub3.2G1\Altium_Project\Project Outputs for USBHub3.2G1\odb\steps\pcb\layers\dielectric_3\attrlist
+*************************************************************
+Generating : Top Paste
+      File : USBHub3.2G1.GTP
 
-Generated File : C:\ProjectsOpenSource\USBHub3.2G1\Altium_Project\Project Outputs for USBHub3.2G1\odb\steps\pcb\layers\dielectric_1\features
+    Adding Layer      : Top Paste
 
-Generated File : C:\ProjectsOpenSource\USBHub3.2G1\Altium_Project\Project Outputs for USBHub3.2G1\odb\steps\pcb\layers\dielectric_1\attrlist
+    Adding Layer      : Top - Layer 1
 
-Generated File : C:\ProjectsOpenSource\USBHub3.2G1\Altium_Project\Project Outputs for USBHub3.2G1\odb\steps\pcb\layers\drill_non-plated_bottom_layer-top_layer\features
+    Adding Layer      : Multi-Layer
 
-Generated File : C:\ProjectsOpenSource\USBHub3.2G1\Altium_Project\Project Outputs for USBHub3.2G1\odb\steps\pcb\layers\drill_non-plated_bottom_layer-top_layer\attrlist
 
-Generated File : C:\ProjectsOpenSource\USBHub3.2G1\Altium_Project\Project Outputs for USBHub3.2G1\odb\steps\pcb\layers\drill_non-plated_bottom_layer-top_layer\tools
+Used DCodes :
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+*************************************************************
 
-Generated File : C:\ProjectsOpenSource\USBHub3.2G1\Altium_Project\Project Outputs for USBHub3.2G1\odb\steps\pcb\layers\top_overlay\features
+*************************************************************
+Generating : Board Layer Stack Bottom Solder
+      File : USBHub3.2G1.GBS
 
-Generated File : C:\ProjectsOpenSource\USBHub3.2G1\Altium_Project\Project Outputs for USBHub3.2G1\odb\steps\pcb\layers\top_overlay\attrlist
+    Adding Layer      : Board Layer Stack Bottom Solder
 
-Generated File : C:\ProjectsOpenSource\USBHub3.2G1\Altium_Project\Project Outputs for USBHub3.2G1\odb\steps\pcb\layers\layer_1\features
+    Adding Layer      : Bottom - Layer 4
 
-Generated File : C:\ProjectsOpenSource\USBHub3.2G1\Altium_Project\Project Outputs for USBHub3.2G1\odb\steps\pcb\layers\layer_1\attrlist
+    Adding Layer      : Multi-Layer
 
-Generated File : C:\ProjectsOpenSource\USBHub3.2G1\Altium_Project\Project Outputs for USBHub3.2G1\odb\steps\pcb\layers\inner_layer_2\features
 
-Generated File : C:\ProjectsOpenSource\USBHub3.2G1\Altium_Project\Project Outputs for USBHub3.2G1\odb\steps\pcb\layers\inner_layer_2\attrlist
+Used DCodes :
+    D19
+    D23
+    D26
+    D28
+    D37
+    D39
+    D40
+    D41
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
+    D55
+    D67
+    D68
+    D69
+    D70
+    D71
+    D72
+    D73
+    D74
+    D75
+    D76
+    D77
+    D78
+    D79
+*************************************************************
 
-Generated File : C:\ProjectsOpenSource\USBHub3.2G1\Altium_Project\Project Outputs for USBHub3.2G1\odb\steps\pcb\layers\board_layer_stack_bottom_overlay\features
+*************************************************************
+Generating : Board Layer Stack Top Solder
+      File : USBHub3.2G1.GTS
 
-Generated File : C:\ProjectsOpenSource\USBHub3.2G1\Altium_Project\Project Outputs for USBHub3.2G1\odb\steps\pcb\layers\board_layer_stack_bottom_overlay\attrlist
+    Adding Layer      : Board Layer Stack Top Solder
 
-Generated File : C:\ProjectsOpenSource\USBHub3.2G1\Altium_Project\Project Outputs for USBHub3.2G1\odb\steps\pcb\layers\keep-out_layer\features
+    Adding Layer      : Top - Layer 1
 
-Generated File : C:\ProjectsOpenSource\USBHub3.2G1\Altium_Project\Project Outputs for USBHub3.2G1\odb\steps\pcb\layers\keep-out_layer\attrlist
+    Adding Layer      : Multi-Layer
 
-Generated File : C:\ProjectsOpenSource\USBHub3.2G1\Altium_Project\Project Outputs for USBHub3.2G1\odb\steps\pcb\layers\top_3d_body\features
 
-Generated File : C:\ProjectsOpenSource\USBHub3.2G1\Altium_Project\Project Outputs for USBHub3.2G1\odb\steps\pcb\layers\top_3d_body\attrlist
+Used DCodes :
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
+    D55
+*************************************************************
 
-Generated File : C:\ProjectsOpenSource\USBHub3.2G1\Altium_Project\Project Outputs for USBHub3.2G1\odb\steps\pcb\layers\drill_plated_bottom_layer-top_layer\features
+*************************************************************
+Generating : Board Layer Stack Bottom Overlay
+      File : USBHub3.2G1.GBO
 
-Generated File : C:\ProjectsOpenSource\USBHub3.2G1\Altium_Project\Project Outputs for USBHub3.2G1\odb\steps\pcb\layers\drill_plated_bottom_layer-top_layer\attrlist
+    Adding Layer      : Board Layer Stack Bottom Overlay
 
-Generated File : C:\ProjectsOpenSource\USBHub3.2G1\Altium_Project\Project Outputs for USBHub3.2G1\odb\steps\pcb\layers\drill_plated_bottom_layer-top_layer\tools
 
-Generated File : C:\ProjectsOpenSource\USBHub3.2G1\Altium_Project\Project Outputs for USBHub3.2G1\odb\steps\pcb\layers\bottom_surface_finish\features
+Used DCodes :
+    D10
+    D13
+    D63
+*************************************************************
 
-Generated File : C:\ProjectsOpenSource\USBHub3.2G1\Altium_Project\Project Outputs for USBHub3.2G1\odb\steps\pcb\layers\bottom_surface_finish\attrlist
+*************************************************************
+Generating : Top Overlay
+      File : USBHub3.2G1.GTO
 
-Generated File : C:\ProjectsOpenSource\USBHub3.2G1\Altium_Project\Project Outputs for USBHub3.2G1\odb\steps\pcb\layers\bottom_paste\features
+    Adding Layer      : Top Overlay
 
-Generated File : C:\ProjectsOpenSource\USBHub3.2G1\Altium_Project\Project Outputs for USBHub3.2G1\odb\steps\pcb\layers\bottom_paste\attrlist
 
-Generated File : C:\ProjectsOpenSource\USBHub3.2G1\Altium_Project\Project Outputs for USBHub3.2G1\odb\steps\pcb\layers\board_layer_stack_bottom_solder\features
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+*************************************************************
 
-Generated File : C:\ProjectsOpenSource\USBHub3.2G1\Altium_Project\Project Outputs for USBHub3.2G1\odb\steps\pcb\layers\board_layer_stack_bottom_solder\attrlist
+*************************************************************
+Generating : Bottom - Layer 4
+      File : USBHub3.2G1.GBL
 
-Generated File : C:\ProjectsOpenSource\USBHub3.2G1\Altium_Project\Project Outputs for USBHub3.2G1\odb\steps\pcb\layers\dielectric_2\features
+    Adding Layer      : Bottom - Layer 4
 
-Generated File : C:\ProjectsOpenSource\USBHub3.2G1\Altium_Project\Project Outputs for USBHub3.2G1\odb\steps\pcb\layers\dielectric_2\attrlist
+    Adding Layer      : Multi-Layer
 
-Generated File : C:\ProjectsOpenSource\USBHub3.2G1\Altium_Project\Project Outputs for USBHub3.2G1\odb\steps\pcb\layers\drill_guide_top_layer-bottom_layer\features
 
-Generated File : C:\ProjectsOpenSource\USBHub3.2G1\Altium_Project\Project Outputs for USBHub3.2G1\odb\steps\pcb\layers\drill_guide_top_layer-bottom_layer\attrlist
+Used DCodes :
+    D19
+    D23
+    D26
+    D28
+    D37
+    D39
+    D40
+    D41
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
+    D55
+    D57
+    D58
+    D59
+    D60
+    D61
+    D62
+    D63
+    D67
+    D68
+    D69
+    D70
+    D71
+    D72
+    D73
+    D74
+    D75
+    D76
+    D77
+    D78
+    D79
+    D80
+    D81
+    D82
+*************************************************************
 
-Generated File : C:\ProjectsOpenSource\USBHub3.2G1\Altium_Project\Project Outputs for USBHub3.2G1\odb\steps\pcb\layers\top_courtyard\features
+*************************************************************
+Generating : Inner - Layer 3
+      File : USBHub3.2G1.G2
 
-Generated File : C:\ProjectsOpenSource\USBHub3.2G1\Altium_Project\Project Outputs for USBHub3.2G1\odb\steps\pcb\layers\top_courtyard\attrlist
+    Adding Layer      : Inner - Layer 3
 
-Generated File : C:\ProjectsOpenSource\USBHub3.2G1\Altium_Project\Project Outputs for USBHub3.2G1\odb\steps\pcb\layers\top_paste\features
+    Adding Layer      : Multi-Layer
 
-Generated File : C:\ProjectsOpenSource\USBHub3.2G1\Altium_Project\Project Outputs for USBHub3.2G1\odb\steps\pcb\layers\top_paste\attrlist
 
-Generated File : C:\ProjectsOpenSource\USBHub3.2G1\Altium_Project\Project Outputs for USBHub3.2G1\odb\steps\pcb\layers\bottom_layer\features
+Used DCodes :
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
+    D55
+    D57
+    D58
+    D59
+    D61
+    D66
+*************************************************************
 
-Generated File : C:\ProjectsOpenSource\USBHub3.2G1\Altium_Project\Project Outputs for USBHub3.2G1\odb\steps\pcb\layers\bottom_layer\attrlist
+*************************************************************
+Generating : Top - Layer 1
+      File : USBHub3.2G1.GTL
 
-Generated File : C:\ProjectsOpenSource\USBHub3.2G1\Altium_Project\Project Outputs for USBHub3.2G1\odb\steps\pcb\layers\board_layer_stack_top_solder\features
+    Adding Layer      : Top - Layer 1
 
-Generated File : C:\ProjectsOpenSource\USBHub3.2G1\Altium_Project\Project Outputs for USBHub3.2G1\odb\steps\pcb\layers\board_layer_stack_top_solder\attrlist
+    Adding Layer      : Multi-Layer
 
-Generated File : C:\ProjectsOpenSource\USBHub3.2G1\Altium_Project\Project Outputs for USBHub3.2G1\odb\steps\pcb\layers\drill_drawing_top_layer-bottom_layer\features
 
-Generated File : C:\ProjectsOpenSource\USBHub3.2G1\Altium_Project\Project Outputs for USBHub3.2G1\odb\steps\pcb\layers\drill_drawing_top_layer-bottom_layer\attrlist
+Used DCodes :
+    D13
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
+    D55
+    D56
+    D57
+    D58
+    D59
+    D60
+    D61
+    D62
+    D63
+    D64
+    D65
+*************************************************************
 
-Generated File : C:\ProjectsOpenSource\USBHub3.2G1\Altium_Project\Project Outputs for USBHub3.2G1\odb\steps\pcb\layers\top_layer\features
+*************************************************************
+Generating : Inner - Layer 2
+      File : USBHub3.2G1.G1
 
-Generated File : C:\ProjectsOpenSource\USBHub3.2G1\Altium_Project\Project Outputs for USBHub3.2G1\odb\steps\pcb\layers\top_layer\attrlist
+    Adding Layer      : Inner - Layer 2
 
-Generated File : C:\ProjectsOpenSource\USBHub3.2G1\Altium_Project\Project Outputs for USBHub3.2G1\odb\steps\pcb\layers\comp_+_bot\features
+    Adding Layer      : Multi-Layer
 
-Generated File : C:\ProjectsOpenSource\USBHub3.2G1\Altium_Project\Project Outputs for USBHub3.2G1\odb\steps\pcb\layers\comp_+_bot\components
 
-Generated File : C:\ProjectsOpenSource\USBHub3.2G1\Altium_Project\Project Outputs for USBHub3.2G1\odb\steps\pcb\layers\comp_+_top\features
+Used DCodes :
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
+    D55
+    D58
+    D59
+    D64
+*************************************************************
 
-Generated File : C:\ProjectsOpenSource\USBHub3.2G1\Altium_Project\Project Outputs for USBHub3.2G1\odb\steps\pcb\layers\comp_+_top\components
+*************************************************************
+Generating : Profile
+      File : USBHub3.2G1.GM
 
-Generated File : C:\ProjectsOpenSource\USBHub3.2G1\Altium_Project\Project Outputs for USBHub3.2G1\odb\steps\pcb\eda\data
 
-Generated File : C:\ProjectsOpenSource\USBHub3.2G1\Altium_Project\Project Outputs for USBHub3.2G1\odb\matrix\matrix
-
-Generated File : C:\ProjectsOpenSource\USBHub3.2G1\Altium_Project\Project Outputs for USBHub3.2G1\odb\symbols\oblong_th3223.99914x2123.9988x45x4x254\features
-
-Generated File : C:\ProjectsOpenSource\USBHub3.2G1\Altium_Project\Project Outputs for USBHub3.2G1\odb\symbols\oblong_th2794x2123.9988x45x4x254\features
-
-Generated File : C:\ProjectsOpenSource\USBHub3.2G1\Altium_Project\Project Outputs for USBHub3.2G1\odb\symbols\oblong_th3223.99914x2123.9988x45x4x254\features
-
-Generated File : C:\ProjectsOpenSource\USBHub3.2G1\Altium_Project\Project Outputs for USBHub3.2G1\odb\symbols\oblong_th2794x2123.9988x45x4x254\features
+Used DCodes :
+    D83
+*************************************************************
 
