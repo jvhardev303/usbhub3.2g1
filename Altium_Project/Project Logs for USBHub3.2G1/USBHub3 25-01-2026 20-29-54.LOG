@@ -1,0 +1,222 @@
+Added Component: Designator=LED1(0402)
+Add component (AddParameter): Name = "Cor"; Value = "Azul"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Corrente"; Value = "20 mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacter"; Value = "XINGLIGHT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Montagem"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Nome"; Value = "XL-1005UBC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "XL-1005UBC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Sub-tipo"; Value = "LED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 3"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "5962-XL-1005UBCTR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 3"; Value = "C22355736"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tensão"; Value = "3.3 V"; VariantName = "[No Variations]"
+Added Component: Designator=LED2(0402)
+Add component (AddParameter): Name = "Cor"; Value = "Azul"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Corrente"; Value = "20 mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacter"; Value = "XINGLIGHT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Montagem"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Nome"; Value = "XL-1005UBC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "XL-1005UBC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Sub-tipo"; Value = "LED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 3"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "5962-XL-1005UBCTR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 3"; Value = "C22355736"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tensão"; Value = "3.3 V"; VariantName = "[No Variations]"
+Added Component: Designator=LED3(0402)
+Add component (AddParameter): Name = "Cor"; Value = "Azul"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Corrente"; Value = "20 mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacter"; Value = "XINGLIGHT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Montagem"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Nome"; Value = "XL-1005UBC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "XL-1005UBC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Sub-tipo"; Value = "LED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 3"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "5962-XL-1005UBCTR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 3"; Value = "C22355736"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tensão"; Value = "3.3 V"; VariantName = "[No Variations]"
+Added Component: Designator=LED4(0402)
+Add component (AddParameter): Name = "Cor"; Value = "Azul"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Corrente"; Value = "20 mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacter"; Value = "XINGLIGHT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Montagem"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Nome"; Value = "XL-1005UBC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "XL-1005UBC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Sub-tipo"; Value = "LED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 3"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "5962-XL-1005UBCTR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 3"; Value = "C22355736"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tensão"; Value = "3.3 V"; VariantName = "[No Variations]"
+Added Component: Designator=LED5(0402)
+Add component (AddParameter): Name = "Cor"; Value = "Vermelho"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Corrente"; Value = "20 mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacter"; Value = "XINGLIGHT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Montagem"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Nome"; Value = "XL-1005SURC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "XL-1005SURC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Sub-tipo"; Value = "LED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 3"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "5962-XL-1005SURCTR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 3"; Value = "C25503345"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tensão"; Value = "2.4 V"; VariantName = "[No Variations]"
+Added Component: Designator=LED6(0402)
+Add component (AddParameter): Name = "Cor"; Value = "Vermelho"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Corrente"; Value = "20 mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacter"; Value = "XINGLIGHT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Montagem"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Nome"; Value = "XL-1005SURC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "XL-1005SURC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Sub-tipo"; Value = "LED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 3"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "5962-XL-1005SURCTR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 3"; Value = "C25503345"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tensão"; Value = "2.4 V"; VariantName = "[No Variations]"
+Added Component: Designator=R30(R0402)
+Add component (AddParameter): Name = "Manufacter"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Montagem"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Nome"; Value = "RC0402FR-07220RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC0402FR-07220RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Potencia"; Value = "62.5 mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Simbolo"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 3"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "603-RC0402FR-07220RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "311-220LRCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 3"; Value = "C112291"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerancia"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "220 Ohms"; VariantName = "[No Variations]"
+Added Component: Designator=R31(R0402)
+Add component (AddParameter): Name = "Manufacter"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Montagem"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Nome"; Value = "RC0402FR-07220RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC0402FR-07220RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Potencia"; Value = "62.5 mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Simbolo"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 3"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "603-RC0402FR-07220RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "311-220LRCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 3"; Value = "C112291"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerancia"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "220 Ohms"; VariantName = "[No Variations]"
+Added Component: Designator=R33(R0402)
+Add component (AddParameter): Name = "Manufacter"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Montagem"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Nome"; Value = "RC0402FR-07220RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC0402FR-07220RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Potencia"; Value = "62.5 mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Simbolo"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 3"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "603-RC0402FR-07220RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "311-220LRCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 3"; Value = "C112291"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerancia"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "220 Ohms"; VariantName = "[No Variations]"
+Added Component: Designator=R34(R0402)
+Add component (AddParameter): Name = "Manufacter"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Montagem"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Nome"; Value = "RC0402FR-07220RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC0402FR-07220RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Potencia"; Value = "62.5 mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Simbolo"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 3"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "603-RC0402FR-07220RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "311-220LRCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 3"; Value = "C112291"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerancia"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "220 Ohms"; VariantName = "[No Variations]"
+Added Component: Designator=R35(R0402)
+Add component (AddParameter): Name = "Manufacter"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Montagem"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Nome"; Value = "RC0402FR-07220RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC0402FR-07220RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Potencia"; Value = "62.5 mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Simbolo"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 3"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "603-RC0402FR-07220RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "311-220LRCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 3"; Value = "C112291"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerancia"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "220 Ohms"; VariantName = "[No Variations]"
+Added Component: Designator=R37(R0402)
+Add component (AddParameter): Name = "Manufacter"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Montagem"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Nome"; Value = "RC0402FR-07220RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC0402FR-07220RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Potencia"; Value = "62.5 mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Simbolo"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 3"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "603-RC0402FR-07220RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "311-220LRCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 3"; Value = "C112291"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerancia"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "220 Ohms"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC4_1 Pin=LED1-2
+Added Pin To Net: NetName=NetC53_1 Pin=LED2-2
+Added Pin To Net: NetName=NetC66_1 Pin=LED3-2
+Added Pin To Net: NetName=NetC87_1 Pin=LED4-2
+Added Pin To Net: NetName=5V0_EXT Pin=LED5-2
+Added Pin To Net: NetName=UPS_VBUS Pin=LED6-2
+Added Pin To Net: NetName=GND Pin=R30-1
+Added Pin To Net: NetName=GND Pin=R31-1
+Added Pin To Net: NetName=GND Pin=R33-1
+Added Pin To Net: NetName=GND Pin=R34-1
+Added Pin To Net: NetName=GND Pin=R35-1
+Added Pin To Net: NetName=GND Pin=R37-1
+Added Pin To Net: NetName=NetLED1_1 Pin=LED1-1
+Added Pin To Net: NetName=NetLED1_1 Pin=R30-2
+Added Net: Name=NetLED1_1
+Added Pin To Net: NetName=NetLED2_1 Pin=LED2-1
+Added Pin To Net: NetName=NetLED2_1 Pin=R31-2
+Added Net: Name=NetLED2_1
+Added Pin To Net: NetName=NetLED3_1 Pin=LED3-1
+Added Pin To Net: NetName=NetLED3_1 Pin=R33-2
+Added Net: Name=NetLED3_1
+Added Pin To Net: NetName=NetLED4_1 Pin=LED4-1
+Added Pin To Net: NetName=NetLED4_1 Pin=R34-2
+Added Net: Name=NetLED4_1
+Added Pin To Net: NetName=NetLED5_1 Pin=LED5-1
+Added Pin To Net: NetName=NetLED5_1 Pin=R35-2
+Added Net: Name=NetLED5_1
+Added Pin To Net: NetName=NetLED6_1 Pin=LED6-1
+Added Pin To Net: NetName=NetLED6_1 Pin=R37-2
+Added Net: Name=NetLED6_1
+Added Member To Class: ClassName=Schematic Member=Component LED1 LED
+Added Member To Class: ClassName=Schematic Member=Component LED2 LED
+Added Member To Class: ClassName=Schematic Member=Component LED3 LED
+Added Member To Class: ClassName=Schematic Member=Component LED4 LED
+Added Member To Class: ClassName=Schematic Member=Component LED5 LED
+Added Member To Class: ClassName=Schematic Member=Component LED6 LED
+Added Member To Class: ClassName=Schematic Member=Component R30 Resistor
+Added Member To Class: ClassName=Schematic Member=Component R31 Resistor
+Added Member To Class: ClassName=Schematic Member=Component R33 Resistor
+Added Member To Class: ClassName=Schematic Member=Component R34 Resistor
+Added Member To Class: ClassName=Schematic Member=Component R35 Resistor
+Added Member To Class: ClassName=Schematic Member=Component R37 Resistor
